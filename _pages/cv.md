@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](/files/Resume_SijieLi.pdf){: .btn}
 {% include base_path %}
 
 Education
