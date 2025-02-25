@@ -5,23 +5,14 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Chasing"
+    url: /chasing/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Courses"
+    url: /courses/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Activities"
+    url: /activities/
 
   - title: "Life"
     url: /life/

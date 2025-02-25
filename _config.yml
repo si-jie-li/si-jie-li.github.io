@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sijie Li"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate"
+  bio              : "Junior Undergraduate"
   location         : "Shenzhen, China"
   employer         : "SUSTech"
   uri              : # URL
@@ -88,7 +88,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

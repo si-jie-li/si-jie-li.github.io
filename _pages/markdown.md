@@ -116,7 +116,7 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one 
+  * List item one
       * List item one 
           * List item one
           * List item two
