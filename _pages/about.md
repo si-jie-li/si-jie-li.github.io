@@ -13,8 +13,7 @@ I’m Sijie Li [^1] , from Guangzhou, China, currently an undergraduate major in
 
 [^1]: Pronunciation of my name: Sijie (given name) Li (family name). 
 
-Here is my print-friendly version [Resume](/files/Resume_SijieLi.pdf){: .btn} and [Personal Statement](/files/SijieLi_Personal_Statement.pdf){: .btn}
-
+Here is my print-friendly version [Resume](/files/Resume_SijieLi.pdf){: .btn}.
 ## Research Goal & Interests
 My ultimate research goal is to precisely and quantitatively **simulate the entire human body**. The [Chasing](/chasing/) page explains the deduction from longevity to this envision and the exploration.   
 
