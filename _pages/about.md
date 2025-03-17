@@ -15,7 +15,7 @@ I’m Sijie Li [^1] , from Guangzhou, China, currently an undergraduate major in
 
 Here is my print-friendly version [Resume](/files/Resume_SijieLi.pdf){: .btn}.
 ## Research Goal & Interests
-My ultimate research goal is to precisely and quantitatively **simulate the entire human body**. The [Chasing](/chasing/) page explains the deduction from longevity to this envision and the exploration.   
+My ultimate research goal is to precisely and quantitatively **simulate the entire human body**. The [Research](/research/) page explains the deduction from longevity to this envision and the exploration.   
 
 During the journey to find a more effective way to deal with scenescence, I have engaged in extensive interdisciplinary exploration, which gave me a broad range of interests—perhaps even too broad at times. Through the journey, I have identified my research goal and gradually refined my focus into reletively specific research directions:  
 
@@ -25,9 +25,9 @@ By integrating **physics, AI, and systems biology**, develop first-principles-ba
 ## Projects & Research-related Experience
 - Project 1: (Machine Learning course) [Segment Brain Regions with fMRI Data](/fmri/)  
 - Project 2: (Signals and Systems course) [Motion Detection via Communication Signals](/signal/)  
-- Lab Experience 1: (mentorship of Zhi Luo) [Cell Culture and Polymer Synthesis](/luo/)  
-- Lab Experience 2: (mentorship of Chris Soon Heng Tan)[Proteomics](/chris/)   
-- Lab Experience 3: (mentorship of Professor Ju Liu)[FSI modeling of vascular](/liu/)  
+- Lab Experience 1: (mentorship of Zhi Luo) [Cell Culture and Polymer Synthesis](/research#5)  
+- Lab Experience 2: (mentorship of Chris Soon Heng Tan)[Proteomics](/research#3)   
+- Lab Experience 3: (mentorship of Professor Ju Liu)[FSI modeling of vascular](/research#6)  
 
 ## Capability
 ### Academic ability
