@@ -10,24 +10,16 @@ All I know from the first point is that senescence is quite a complex thing and 
 
 Here is my chasing trajectory after I enter university: 
 
-- [Select BME](#1)
-
-- [Start from Anti-aging drug](#5)
-    
+- **[Select BME](#1)**
+- **[Start from Anti-aging drug](#5)**  
     Experience in [Zhiluo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en)'s lab -- polymer synthesis and cell culture
-
-- [Turn to computational methods](#2)
-    
+- **[Turn to computational methods](#2)**  
     machine learning and AIDD
-
-- [Turmoil in seeking for first-principle methods](#3)
-    
+- **[Turmoil in seeking for first-principle methods](#3)**  
     Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en)’s Lab -- proteomics
-
-- [Combine theoretical and computational methods](#6)
-    
+- **[Combine theoretical and computational methods](#6)**  
     Experience in [Juliu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2)'s lab -- fluid-structure interaction for vascular modeling
-- [Determine research focus...](#4)
+- **[Determine research focus...](#4)**
 
 <h2 id="1">Select BME</h2>
 In SUSTech, we have not determine our major during the first. To figure out which major can equip me with the most related skills and knowledge to achieve my dream, I have appointed and consulted many professors, mainly within the Biology and Biomedical Engineering deparment. After getting the ideas what these majors focus on, I selected BME to **deal with senescence from an engineering perspective**, which, in my opinion then, focuses on finding solutions while the biology guys focuses on figuring out the mechanisms.
@@ -48,8 +40,12 @@ However, during the first summer, senior apprentice was too busy to tutorial me 
 
 <h2 id="2">Turn to computational methods</h2>
 In the last chapter of *Ageless*'s "Treating ageing" part, the author indicates the complexity of aging calls for solving aging problem using computational methods from a holistic perspective, which, for me, is the most inspiring point given by the book. I go through the [reference link](https://andrewsteele.co.uk/ageless/references/) to find more informative details about aging and, most importantly, find out what people have done with computational methods. And it was my first time to know we have already been able to build a [Whole-Cell Computational Model](https://www.sciencedirect.com/science/article/pii/S0092867412007763?via%3Dihub)!
-
-(reading note picture)
+<center>
+<img src="/images/book_ageless.jpeg" width=300/>  
+</center>
+<center>
+<font color=grey><small><i>I took detailed notes during reading.</i></small></font>
+</center>
 
 At the same time, I was worried about the low efficiency, long period, and heavily cost of the wet lab experiments (since I want to achieve immortal before death:worried:). I keep on thinking and exploring a more effective way toward my dream.
 
