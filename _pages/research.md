@@ -98,6 +98,8 @@ I get the hang of the pipline to carry out FSI simulation and be more familiar w
 
 Also, I gradually realize that most of the time, it is not neccesary and also impossible to build up the model 100% correct. **In my opinion, modeling is to use those known laws to lower information entropy of the obtained data and then get the accurate information we want.**
 
+Recently, I have joined an iGEM team and take on the reponsiblity to build up Individual-based models of microenvironment in order to prove the specific adhesion of Engineered E.coli in tumor microenvironment.
+
 <h2 id="4">Determine research focus...</h2>
 After the above exploration, I have gradually figure out the path towards my dream. Starting simulation from cellular level and scale it up, combining machine learning and understanding of physical laws, integrating multi-scale and multi-modal data, and developing of universal representations and experimental systems are what I want to focus on. 
 
