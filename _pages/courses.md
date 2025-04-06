@@ -13,6 +13,7 @@ Most pictures jump to the slide or poster I made when clicked. I always enjoy th
 - **Bioinformatics**
   - (Theoretical part) Principles behind how data is obtained and algorithms to quest information from data
   - (Practical part) Use exsiting tools to deal with real bioinformatic problems
+    - <small><font color=grey>I start to enjoy reading those help documentations!?!!</font></small>
 - **[Basic Synthetic Biology](#1)**
 - **Systems Biology**
   - How to quantitatively describe biology in a holistic way

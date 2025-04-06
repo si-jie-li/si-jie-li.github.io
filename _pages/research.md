@@ -41,7 +41,7 @@ However, during the first summer, senior apprentice was too busy to tutorial me 
 <h2 id="2">Turn to computational methods</h2>
 In the last chapter of *Ageless*'s "Treating ageing" part, the author indicates the complexity of aging calls for solving aging problem using computational methods from a holistic perspective, which, for me, is the most inspiring point given by the book. I go through the [reference link](https://andrewsteele.co.uk/ageless/references/) to find more informative details about aging and, most importantly, find out what people have done with computational methods. And it was my first time to know we have already been able to build a [Whole-Cell Computational Model](https://www.sciencedirect.com/science/article/pii/S0092867412007763?via%3Dihub)!
 <center>
-<img src="/images/book_ageless.jpeg" width=300/>  
+<img src="/images/book_ageless.webp" width=300/>  
 </center>
 <center>
 <font color=grey><small><i>I took detailed notes during reading.</i></small></font>
