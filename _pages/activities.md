@@ -102,7 +102,7 @@ I was recommended to hold post of publicity minister in the organization at the 
     I have been responsible for the task distribution, revision and checking of 60+ articles. At times, I was at the edge of collapsing due to my perfectionism. In May 2024, we continuously published WeChat articles for a whole month, which is really a devastating :persevere: period for me along with my two large course projects. However, to my delight, our works have earned a high reputation and reached to more and more people in this intensive period. 
 <center> 
     <img src="/images/activity/student/RC_photo.jpg" width=150/>
-    <img src="/images/activity/student/RC_minister.JPG" width=155/> 
+    <img src="/images/activity/student/RC_minister.webp" width=155/> 
     <img src="/images/activity/student/recruit.JPG" width=160/> 
     <img src="/images/activity/student/RC_drill.PNG" width=160/> 
 </center>

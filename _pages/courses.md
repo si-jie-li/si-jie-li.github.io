@@ -137,7 +137,7 @@ Our work is innovative because we were the only group focusing on the features o
 <center>
     <img src="/images/course/ml_pre.JPG" width=290/>  
     <a href="/files/course_mat/ml/SijieLi_MLproject_poster.pdf" target="_blank">
-        <img src="/images/SijieLi_MLposter.png" width=180/>
+        <img src="/images/SijieLi_MLposter.webp" width=180/>
     </a>    
 </center>
 <center><font color=grey><small><i>⓵ I am presenting; ⓶ our poster (click for clear view).</i></small></font></center>
