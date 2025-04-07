@@ -2,7 +2,7 @@
 permalink: /activities/
 # title: "Activities"
 ---
-I actively participate in [academic activities](#3) and [sutdent activities](#4).
+I actively participate in [academic activities](#3) and [sutdent activities](#5).
 <h1 id="3">Academic Activities</h1>
 I pay close attention to the information related to my interest areas through multiple platforms and often attend to the sharings, workshops, reports, seminars, meetings, and forums held by students, professors, schools, or institutions both online and on site. At first, unable to fully understand every details makes me struggle. After times of participation, communication with professors, and accumulation of interdisciplinary knowledge, I gradually get the hang of the how to make the most of these academic activities!
 
@@ -59,9 +59,9 @@ On the conference, we undergraduate students shared our knowledge and understand
 </center>
 <font color=grey><small><i>Click to view the slide. (BTW, several audience ask me the techniques behind the slide -- just simple sliding effect of transition!)</i></small></font>
 <br />
-<h1 id="5">Student Activities</h1>
+<h1 id="4">Student Activities</h1>
 
-I have joined [Student Branch of SUSTech Red Cross](#5) and New Media Studio of Shuren college, which provided opportunities to contribute myself and cultivates my comoprehensive ability, in cluding presentation skill, leadership, and publicity related skill. 
+I have joined [Student Branch of SUSTech Red Cross](#6) and New Media Studio of Shuren college, which provided opportunities to contribute myself and cultivates my comoprehensive ability, in cluding presentation skill, leadership, and publicity related skill. 
 My reliability and dedication towards every task has won me high praises and recognitions (e.g Outstanding Student Leader Award). <font color=grey><small><i>(Admittedly, the purchase of perfectionism in these works sometimes may over-consume myself and cause anxiety.)</i></small></font>
 <h2 id="6">Student Branch of SUSTech Red Cross</h2>
 Aligning with my dream of longevity, I joined Red Cross to equip myself with first-aid knowledge in case of emergency and those health related knowledge. For specific department, I chose publicity. For one thing, I want to maximize my art skills cultivated before, continue art creation, and learn the tools to express myself in an electronic form which is easier to promote nowadays than my familiar paper form. For another, I want to spread those useful knowledge to more people so that more lives can be saved.
