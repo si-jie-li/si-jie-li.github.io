@@ -9,6 +9,23 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- back to top -->
+    <style>
+      #back-to-top {
+        position: fixed;
+        bottom: 100px;
+        right: 100px;
+        display: none;
+        background-color: #9fa2a5;
+        color: white;
+        opacity: 0.5;
+        padding: 10px 15px;
+        border-radius: 50px;
+        cursor: pointer;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        z-index: 9999;
+      }
+    </style>
   </head>
 
   <body>
@@ -17,6 +34,8 @@ layout: compress
     {% include masthead.html %}
 
     {{ content }}
+    <!-- back to top -->
+    <div id="back-to-top">↑TOP</div>
 
     <div class="page__footer">
       <footer>
@@ -26,6 +45,23 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-
+    <!-- back to top -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const backToTopButton = document.getElementById('back-to-top');
+    
+        window.onscroll = function() {
+          if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+            backToTopButton.style.display = "block";
+          } else {
+            backToTopButton.style.display = "none";
+          }
+        };
+    
+        backToTopButton.onclick = function() {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        };
+      });
+    </script>
   </body>
 </html>

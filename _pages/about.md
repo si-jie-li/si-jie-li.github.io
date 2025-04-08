@@ -25,9 +25,9 @@ By integrating **physics, AI, and systems biology**, develop first-principles-ba
 ## Projects & Research-related Experience
 - Project 1: (Machine Learning course) [Segment Brain Regions with fMRI Data](/courses#5){:target="_blank"}
 - Project 2: (Signals and Systems course) [Motion Detection via Communication Signals](/courses#6){:target="_blank"}
-- Lab Experience 1: (Mentorship of Zhi Luo) [Cell Culture and Polymer Synthesis](/research#5){:target="_blank"}
+- Lab Experience 1: (Mentorship of Zhi Luo) [Cell Culturing and Polymer Synthesis](/research#5){:target="_blank"}
 - Lab Experience 2: (Mentorship of Chris Soon Heng Tan) [Proteomics](/research#3){:target="_blank"}   
-- Lab Experience 3: (Mentorship of Professor Ju Liu) [FSI modeling of the vasculature](/research#6){:target="_blank"}  
+- Lab Experience 3: (Mentorship of Professor Ju Liu) [FSI Modeling of the Vasculature](/research#6){:target="_blank"}  
 
 ## Capability
 ### Academic ability

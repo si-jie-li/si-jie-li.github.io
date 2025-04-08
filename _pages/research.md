@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Ambitious is not the same as impossible"
+title: "Ambitious is Not the Same as Impossible"
 ---
 From an early age, **I have been believing that everything must have a reason for existing**, and I wanted to fully understand those reasons. However, to figure everything out, unless I had infinite time, seemed impossible. Thus, I dream of achieving longevity, or even immortality, so that **I can have enough time to satisfy my curiosity** by exploring the science of nature.
 
@@ -12,13 +12,13 @@ Here is the trajectory of my journey after I entered university:
 
 - **[Select BME](#1)**
 - **[Start from Anti-aging drug](#5)**  
-    Experience in [Zhiluo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en)'s lab -- polymer synthesis and cell culturing
+    Experience in [Zhiluo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab -- polymer synthesis and cell culturing
 - **[Turn to computational methods](#2)**  
     machine learning and AIDD
 - **[Turmoil in seeking first-principle methods](#3)**  
-    Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en)’s Lab -- proteomics
+    Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}’s Lab -- proteomics
 - **[Combine theoretical and computational methods](#6)**  
-    Experience in [Juliu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2)'s lab -- fluid-structure interaction for vascular modeling
+    Experience in [Juliu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}'s lab -- fluid-structure interaction for vascular modeling
 - **[Determine research focus...](#4)**
 
 <h2 id="1">Select BME</h2>
@@ -39,7 +39,7 @@ Only a few professors were encouraging when I shared my dream of immortality, an
 However, during the first summer, the senior apprentice was too busy to mentor me on many laboratory skills. So, I used my spare time to dive into the book ***Ageless***, which shifted my thinking.
 
 <h2 id="2">Turn to computational methods</h2>
-I followed the [references](https://andrewsteele.co.uk/ageless/references/) in the book to explore more details about aging and, most importantly, discovered that we’ve already been able to build a [Whole-Cell Computational Model](https://www.sciencedirect.com/science/article/pii/S0092867412007763?via%3Dihub)!
+I followed the [references](https://andrewsteele.co.uk/ageless/references/){:target="_blank"} in the book to explore more details about aging and, most importantly, discovered that we’ve already been able to build a [Whole-Cell Computational Model](https://www.sciencedirect.com/science/article/pii/S0092867412007763?via%3Dihub){:target="_blank"}!
 <center>
 <img src="/images/book_ageless.webp" width=300/>  
 </center>
@@ -53,7 +53,7 @@ At the end of my first sophomore semester, reflecting on the ideas in *Ageless*,
 
 I tried to explain my immature thought to my mentor and he recommended me to learn about **AIDD** (AI Drug Design), which is a project he is also working on.
 
-I then spent my winter holiday teaching myself machine learning, basic probability and statistics, and AIDD. I also enjoyed [Machine Learring and Its Medical Engineering Applications course](/courses#1) in the following semester. 
+I then spent my winter holiday teaching myself machine learning, basic probability and statistics, and AIDD. I also enjoyed [Machine Learring and Its Medical Engineering Applications course](/courses#5){:target="_blank"} in the following semester. 
 
 ><small>I used a paper-oriented approach to self-learn AIDD, which meant I looked up every new concept in the papers and tried to replicate the code myself. During this process, I learned how to represent molecular structures in SMILES code along with mostly used computational packages and algorithm principles behind them, including, one-hot encoding, max pooling, zero padding, and more.</small>
 
@@ -102,6 +102,6 @@ Gradually, I came to realize that in most cases, it is neither necessary nor pos
 Recently, I have joined an iGEM team and took on the reponsiblity of **constructing individual-based models** of the tumor microenvironment to simulate the specific adhesion of engineered E. coli using CompuCell3D and PhysiCell.
 
 <h2 id="4">Determine research focus...</h2>
-After the above exploration, I have gradually figure out the path towards my dream. Starting from simulations at the cellular and organoid levels, combining **first-principles and artificial intelligence**, and integrating **multi-scale and multi-modal data**, I want to contribute to the e**stablishment and validation of universal representations and virtual instruments**. (This is also inspired by [the Perspective article on AI virtual cell](https://doi.org/10.1016/j.cell.2024.11.015))
+After the above exploration, I have gradually figure out the path towards my dream. Starting from simulations at the cellular and organoid levels, combining **first-principles and artificial intelligence**, and integrating **multi-scale and multi-modal data**, I want to contribute to the e**stablishment and validation of universal representations and virtual instruments**. (This is also inspired by [the Perspective article on AI virtual cell](https://doi.org/10.1016/j.cell.2024.11.015){:target="_blank"})
 
 I will take research as my lifetime career to fulfill my dream. My focus may still seem to be too broad and I really appreciate if you have any suggestions, guidance, or even opportunities for me. Thank you for your time to go through my story!

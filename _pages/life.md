@@ -1,49 +1,52 @@
 ---
 permalink: /life/
-title: "Aha! "
+title: "Aha!"
 ---
-You are here to know about my colorful life~ or maybe, encounter a total different me :sunglasses: comparing to the other pages (which I seems to be quite serious)
+You’re here to learn about my colorful life~ or maybe, to encounter a **totally different me** :sunglasses: compared to the other pages (where I might seem quite serious).
 <center>
-    <img src="/images/life/quirky2.JPG" width=130/>  
-    <img src="/images/life/traveling_2020.JPG" width=230/> 
-    <img src="/images/life/quirky4.JPG" width=130/> 
-    <img src="/images/life/quirky3.JPG" width=230/> 
+    <img src="/images/life/quirky2.webp" width=130/>  
+    <img src="/images/life/traveling_2020.webp" width=230/> 
+    <img src="/images/life/quirky4.webp" width=130/> 
+    <img src="/images/life/quirky3.webp" width=230/> 
 </center>
-<center><font color=grey><small><i>As you can imagine, I am the naughty and quirky kid who will often gain punishments in the childhood.</i></small></font></center>
+<center><font color=grey><small><i>As you can imagine, I was the naughty and quirky kid who often got punishments in childhood</i></small></font></center>
 
 For relaxation, I enjoy filling the leisure time with [**arts**](#3) (mainly painting), [**sports**](#2) (mainly running and Pilates), and [**reading**](#1) (esp. about health and science).
 <h2 id="3">Arts</h2>
-I learned drawing, caligraphy, and piano at an early age and they are still important ways to relax myself now, especially drawing for its convenience. I can practice my concentration through these highly focusing activities (required to be still for hours). Most imporantly, I can really feel that the aesthetic capability and creativity I obtained benefit my scientific study and showcases.
+I learned drawing, calligraphy, and piano at an early age, and they’re still important ways for me to relax now, especially drawing, because of its convenience. These **highly focused activities** (which require me to stay still for hours) help me improve my concentration. Most importantly, I can really feel that the aesthetic sensitivity and creativity I’ve developed **benefit both my scientific studies and visual presentations**.
 <center>
-    <img src="/images/life/piano.JPG" width=230/> 
-    <img src="/images/life/drawing_2022.JPG" width=120/>  
-    <img src="/images/life/caligraphy.JPG" width=255/> 
+    <img src="/images/life/piano.webp" width=230/> 
+    <img src="/images/life/drawing_2022.webp" width=120/>  
+    <img src="/images/life/caligraphy.webp" width=255/> 
 </center>
-<center><font color=grey><small><i>I am ⓵ Practicing playing paino;⓶ Drawing in studio;⓷ Caligraphing in the flower fair</i></small></font></center>
+<center><font color=grey><small><i>I am ⓵ Practicing piano;⓶ Drawing in the studio;⓷ Writing calligraphy at the flower fair
+</i></small></font></center>
 
-Drawing is what I am most good at. I have contined hone my skill since 5 years old and won several national and worldwide prizes. I work with a variety of mediums (including: sketching, watercolor, colored pencils, acrylic painting, etc.) and my portfolio spans diverse styles and approaches (including: master studies, observational drawing, original creative works, and mixed-media handcrafted pieces). 
+Drawing is what I'm best at. I’ve been honing my skills since the age of five and have won several national and international awards. I work with **a variety of mediums** (including sketching, watercolor, colored pencils, acrylic painting...) and my portfolio spans **diverse styles and approaches** (including master studies, observational drawing, original creative works, and mixed-media handcrafted pieces). 
 
-Click to my incomplete [gallery](/gallery){: .btn}{:target="_blank"} to know more about me through my paintings!
+Click to view my incomplete [gallery](/gallery){: .btn}{:target="_blank"} and get to know more about me through my paintings!
 
 <center>
-    <img src="/images/life/painting_futuremuseum2018.jpg" width=304/> 
-    <img src="/images/life/painting_2021binxi.jpg" width=280/>  
-    <img src="/images/life/painting_2021dafu.jpg" width=160/> 
+    <img src="/images/life/painting_futuremuseum2018.webp" width=304/> 
+    <img src="/images/life/painting_2021binxi.webp" width=280/>  
+    <img src="/images/life/painting_2021dafu.webp" width=160/> 
 </center>
-<font color=grey><small><i>⓵ Won the first place in the International Children's Art Competition, 14 years old;⓶ Master study of acrylic painting, 17 years old;⓷ Quick "snapshot" at Mount. Dafu, 17 years old</i></small></font>
+<font color=grey><small><i>⓵ <b>First place in the International Children's Art Competition</b>, age 14; ⓶ Master study in acrylic painting, age 17; ⓷ A quick "snapshot" sketch at Mount Dafu, age 17</i></small></font>
 
 <h2 id="2">Sports</h2>
-I have the habit of running from junior high school year. Later, Pilates adds to my sports list during the pandemic. These two convenient sports are irreplacable in my routine. Of course, I will sometimes take on other sport forms, including hiking, climbing mountain, badminton, etc.
+school year.
+I‘ve had the habit of **running** since junior high school. Later, **Pilates** came into my sports list during the pandemic. These two convenient forms of exercise have become irreplaceable parts of my routine. Of course, I also occasionally take part in other exercises, including **hiking, mountain climbing, badminton**, and more.
 <center>
-    <img src="/images/life/running_2019.jpg" width=143/>  
-    <img src="/images/life/medals.jpg" width=275/> 
-    <img src="/images/life/running_2022.JPG" width=120/> 
+    <img src="/images/life/running_2019.webp" width=143/>  
+    <img src="/images/life/medals.webp" width=275/> 
+    <img src="/images/life/running_2022.webp" width=120/> 
 </center>
-<center><font color=grey><small><i>⓵ Sport meeting in 2019;⓶ Medals I won in senior high school;⓷ Sport meeting in 2022</i></small></font></center>
+<center><font color=grey><small><i>⓵ Sport meeting in 2019; ⓶ Medals I won in senior high school; ⓷ Sport meeting in 2022</i></small></font></center>
 
 <h2 id="1">Reading</h2>
-It is generalized "reading". Sure, I read literature work, biography particularly. But I enjoy more in informative books and **different types of articles about health and science**, which are part of my daily life.
+By "reading", I mean it in a broad sense. Sure, I read literature -- especially biographies. But I enjoy **informative books and various types of articles on health and science** even more -- they're part of my daily life.
 
-To achieve my dream -- longevity, of course, I should maintain a healthy life in a scientific way. There are many contradictory suggestions on health, so, to execute the more correct action(there may be no absolutely correct, at least in my opinion), I equip myself with the principles of those suggestions through reading. (I even have audited the course *diet and health* for a whole semester.) The sources may be official WeChat articles, handbooks and national official guidances, book about traditional Chinese medicine, scientific papers, etc.
+To achieve my dream -- longevity -- I of course, I should maintain a healthy life in a scientific way. There are **many conflicting suggestions about health**. So, to take the most informed actions (since I believe there may be no absolutely correct ones), I try to **understand the principles behind them** through reading. (I even have audited the course *diet and health* for a whole semester.) My sources include official WeChat articles, health handbooks, national guidelines, books on traditional Chinese medicine, scientific papers, and more.
 
-I also love knowing the frontiers or issues of science. The articles from Nature Briefing, Nature Career are the main sources. BTW, listening to podcast (e.g. Nature, ScienceVS, Zoe, etc.) can also provides me with the health and science information I want.
+I also enjoy **learning about the frontiers and key issues in science**. The articles from *Nature Briefing*, *Nature Careers* are the main sources. BTW, listening to **podcasts** (e.g. *Nature*, *ScienceVS*, *Zoe*, etc.) can also provides me with the health and science information I want.
+

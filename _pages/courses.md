@@ -1,49 +1,50 @@
 ---
 permalink: /courses/
-title: "How I enjoy my learning journey in coursework..."
+title: "How I Enjoy My Learning Journey in Coursework..."
 ---
-I equip myself with a note system and learning strategies. Generally, I enjoy those couses through engagement, discussion, presentation, homework, and project, which all build up my comprehensive ability. I also self-learn some expansive or interested courses through textbook or online sources. Particularly, I devote a large amount of time and energy into most course projects, treating them as my own research projects because I can be intensively trained through them.
+I equip myself with a note-taking system and learning strategies. Generally, I enjoy my courses through engagement, discussion, presentations, homework, and projects, all of which help build my comprehensive abilities. I also **self-learn** some expansive or interested courses through textbooks or online sources. Particularly, I devote a large amount of time and energy to most **course projects, treating them as my own research projects** because they provide intensive training.
 
-One of the characteristics of my coursework is interdisciplinary, which provides me with knowledge, ideas, and skills in many different area. In my opinion, this interdisciplinary thinking is important in AI era where requires more on our ability to question from different perspectives and integrate information. My great performance in these interdisciplinary coursework also proves my corresponding ability. [Transcript](/files/course_mat/Transcript_SijieLi.pdf){: .btn}{:target="_blank"}
+One of the characteristics of my coursework is its **interdisciplinary** nature, which provides me with knowledge, ideas, and skills in various fields. In my opinion, this interdisciplinary thinking is important in the **AI era**, where more emphasis is placed on our **ability to question from different perspectives and integrate information to get meaningful insights**. My great performance in these interdisciplinary coursework also demonstrates my corresponding ability. [Transcript](/files/course_mat/Transcript_SijieLi.pdf){: .btn}{:target="_blank"}
 
-The following are some of the couserwork (mainly after sophormore year) I have taken along with harvest.
-Most pictures jump to the slide or poster I made when clicked. I always enjoy the process to design the slide and hope you can enjoy!
+The following are some of the couserwork (mainly after sophormore year) I have taken, along with my takeaways.  
+**Most pictures will link to the slides or posters I created when clicked.** I always enjoy the process of designing slides and hope you can enjoy them too!
 
 ### 2025 Spring
 - **Bioinformatics**
-  - (Theoretical part) Principles behind how data is obtained and algorithms to quest information from data
-  - (Practical part) Use exsiting tools to deal with real bioinformatic problems
-    - <small><font color=grey>I start to enjoy reading those help documentations!?!!</font></small>
+  - (Theoretical) Experimental principles of **data collection** and the corresponding analytical **algorithms**
+  - (Practical) Applying existing tools to solve real-world bioinformatics problems  
+  <small><font color=grey>I’ve started to enjoy reading help documents!?!!</font></small>
 - **[Basic Synthetic Biology](#1)**
 - **Systems Biology**
   - How to quantitatively describe biology in a holistic way
+  - Commonly used imaging principles and the use of image processing tools (Fiji, MATLAB)
 - **Introduction to Nanobiomedicine**
 - **Scientific Writing**
 - **[Programmable Biomolecular Design](#2)** 
  
 ### 2024 Fall
 - **Thermodynamics and Statistical Physics I** (A+) 
-  - Four axioms of thermodynamics and basic statistics (mainly Boltzman statistics as example)
+  - Four laws of thermodynamics and basic statistics (mainly Boltzman statistics as example)
   - The way physicists think!
-  - Motivation: Though it is a courses outside curricula, I want to have preknowledge to further studies biology from the perspective of complex system.
+  - Motivation: Although this course is outside my required curriculum, I want foundational knowledge to approach biology from a complex systems perspective.
 - **[Biomechanics](#3)** (A+)
 - **Molecular Cell Biology** (A+)
-  - The substance and behavior of the cell
+  - Cellular components and their behavior
 - **Computational Biology** (A)
-  - Programming languages including Shell, Python, AWK, and R (focus on the use on biological analysis and demonstration)
-  - Foundamental algorithms including Pairwise alignment, BLAST, MSA, and tree-building
+  - Programming languages including Shell, Python, AWK, and R (with an emphasis on biological analysis and demonstration)
+  - Foundamental algorithms: pairwise alignment, BLAST, MSA, and phylogenetic tree construction
 - **Principles of Medical Imaging Systems** (A)
-  - The principle of radiographic imaging (PR and CT), nuclear medicine imaging, ultrasound imaging, and magnetic resonance imaging   
+  - The principles of radiographic imaging (PR and CT), nuclear medicine (NM), ultrasound (US), and magnetic resonance imaging (MRI)   
 
 ### 2024 Spring
-I have done two proud projects this semester.
+I completed two course projects I’m particularly proud of this semester.
 - **[Intelligent Sensing Technology](#4)** (A+)
 - **[Machine Learning and Its Medical Engineering Applications](#5)** (A)
-  - Project was credited!
+  - Project recognized!
 - **[Signals and Systems](#6)** (A)  
-  - Project was credited!
+  - Project recognized!
 - **Biomedical Optics** (A)
-  - Principle of optics: light-tissue interaction, wave optics, inteference, diffraction
+  - Optical principles: light-tissue interaction, wave optics, inteference, diffraction
   - Optical imaging modalities and their principles: OCT, DOT, fluorescence imaging (confocal, light-sheet, super-resolution, FRET, nonlinear optical microscopy, etc.)
 
 ### 2023 Fall
@@ -52,17 +53,18 @@ I have done two proud projects this semester.
   - Statics and dynamics
 
 <h2 id="1">Basic Synthetic Biology</h2>
-Motivation: Knowing that synthetic biology is an important tool to study emergent phenomenon.
-Recently, I have presented on the future after the first synthetic cell, which is a new for me. Limit preparation time and the good performance prove my ability to read literatures and quickly get the hang of an unfamiliar field.
+Motivation: Knowing that synthetic biology is an important tool to study emergent phenomena.
+
+Recently, Recently, I gave a presentation on the future after the creation of the first synthetic cell, which was a whole new topic for me. The limited preparation time and the good performance prove my ability to read literature and quickly get the hang of an unfamiliar field.
 <center>
     <a href="/files/course_mat/syn/Sijie_SynBio_Pre.pdf" target="_blank">
-        <img src="/images/course/Sijie_SynBio_Pre.jpg" width=250/>   
+        <img src="/images/course/Sijie_SynBio_Pre.webp" width=250/>   
     </a>
     <a href="/files/course_mat/syn/Sijie_SynBio_Pre.pdf" target="_blank">
-        <img src="/images/course/Sijie_SynBio_Pre2.jpg" width=250/>   
+        <img src="/images/course/Sijie_SynBio_Pre2.webp" width=250/>   
     </a>
         <a href="/files/course_mat/syn/Sijie_SynBio_Pre.pdf" target="_blank">
-        <img src="/images/course/Sijie_SynBio_Pre3.jpg" width=250/>   
+        <img src="/images/course/Sijie_SynBio_Pre3.webp" width=250/>   
     </a>
 </center>
 <center>
@@ -70,107 +72,109 @@ Recently, I have presented on the future after the first synthetic cell, which i
 </center>
 <br/>
 <center>
-<img src="/images/course/praise_sb.jpg" width=200/>
+<img src="/images/course/praise_sb.webp" width=200/>
 </center>
 <center>
-<font color=grey><small><i>Professor praise my presentation :grinning:~</i></small></font>
+<font color=grey><small><i>The professor praised my presentation :grinning:~</i></small></font>
 </center>
 
 <h2 id="2">Programmable Biomolecular Design</h2>
-Participate as an auditing student. So far, I have learned the design principles of DNA and RNA along with the usage of the design and visualizaiton tool, including Tiamat, caDNAno, PyMol, etc.
+I participated as an **auditing** student. So far, I have learned the **design principles** of DNA, RNA, and proteins, along with the use of various design and visualization **tools**, including Rosetta, Tiamat, caDNAno, PyMol, etc.
 <center>
-<img src="/images/course/pbd_2.png" width=250/>
-<img src="/images/course/pbd_1.png" width=250/>
-<img src="/images/course/DAE2D.jpg" width=250/>
+<img src="/images/course/pbd_2.webp" width=250/>
+<img src="/images/course/pbd_1.webp" width=250/>
+<img src="/images/course/DAE2D.webp" width=250/>
 </center>
 <center>
-<font color=grey><small><i>Some of my practice: ⓵ visualize base pairing, ⓶ DNA origami simulation using CanDo, ⓷ DAE drawing using Tiamat</i></small></font>
+<font color=grey><small><i>Some of my practice: ⓵ Visualizing base pairing, ⓶ DNA origami simulation using CanDo, ⓷ DAE drawing using Tiamat</i></small></font>
 </center>
 
 <h2 id="3">Biomechanics</h2>
-Showing how to abstract and simplify objectives in a reasonable degree so that enable the quantitive description of biological behaviors is the essence of this course.  
+The essence of this course is learning how to **abstract and simplify objectives to a reasonable degree**, enabling the quantitative description of biological behaviors. 
 
-In the course project, I am responsible to establish a tube model to theoretically explore the effects of sentricular Septal defects, aiming to facilitating clinical judgement on wether to carry out surgery.
+In the course project, I was responsible for establishing a tube model to theoretically explore the effects of ventricular septal defects, aiming to facilitate clinical judgment on whether to carry out surgery.
 <center>
     <a href="/files/course_mat/TubeModel_sijie.pdf" target="_blank">
-        <img src="/images/course/TubeModel_slide1.jpg" width=300/>
+        <img src="/images/course/TubeModel_slide1.webp" width=300/>
     </a>
     <a href="/files/course_mat/TubeModel_sijie.pdf" target="_blank">
-        <img src="/images/course/TubeModel_slide2.jpg" width=300/>
+        <img src="/images/course/TubeModel_slide2.webp" width=300/>
     </a>
 </center>
 <center><font color=grey><small><i>Click to view the slide of our group.</i></small></font></center>
 
-Our group also wrote an [essay](/files/course_mat/BM_final_report.pdf){:target="_blank"} to our work.
+Our group also wrote an [essay](/files/course_mat/BM_final_report.pdf){:target="_blank"} about our work.
 <h2 id="4">Intelligent Sensing Technology</h2>
-This course taught by my mentor just inspired me a lot! The principles and engineering thinking behind sensors always amaze me! I really enjoyed the quantitive thinking and the smart tricks to bridge theories to applications presented in this course.
+This course, taught by my mentor, inspired me a lot! The principles and engineering thinking behind sensors always amaze me. I really enjoyed the **quantitative thinking** and the **clever tricks used to bridge theories to applications** tpresented in this course.
 
-In the presentation, we give an overview on the early identification of Alzheimer's disease and we had to go through a lot of sesarch and reading to get a broad idea of the existing methods. I am responsible for the part excluding the OCT detection.
+In our presentation, we gave an overview on the early identification of Alzheimer's disease and we had to go through extensive searching and reading to build a broad understanding of the existing methods. I was responsible for all parts except the OCT detection.
 <center>
     <a href="/files/course_mat/IST_presentation.pdf" target="_blank">
-        <img src="/images/course/IST_presentation1.jpg" width=250/>
+        <img src="/images/course/IST_presentation1.webp" width=250/>
     </a>
     <a href="/files/course_mat/IST_presentation.pdf" target="_blank">
-        <img src="/images/course/IST_presentation2.jpg" width=250/>
+        <img src="/images/course/IST_presentation2.webp" width=250/>
     </a>
     <a href="/files/course_mat/IST_presentation.pdf" target="_blank">
-        <img src="/images/course/IST_presentation3.jpg" width=250/>
+        <img src="/images/course/IST_presentation3.webp" width=250/>
     </a>
 </center>
-<font color=grey><small><i>Click to view the slide of our group. During preparation, I gained a deeper understanding -- The essence of the sensor is to transfer charateristics to detectable signal utilizing existing knowledge (physical theories, material properties, etc.).</i></small></font>
+<font color=grey><small><i>Click to view the slide of our group.</i></small></font>
+During the preparation, I gained a deeper understanding — the essence of a sensor is to **convert characteristics into detectable signals utilizing existing knowledge** (physical theories, material properties, etc.).
 
 <h2 id="5">Machine Learning and Its Medical Engineering Applications</h2>
-For the theoretical part, mathematical descriptions of many fundamental machine learning algorithms are introduced in this course, including regression (linear, Ridge, LASSO), logistic regression, SVM (kernel, soft and hard boundary), PCA (SVD), LDA, clustering, neural network (RNN and LSTM, CNN), etc. I enjoy deriving each of them agian after every class to ensure I have fully understood, and gained a lot of important intuitions through this process. (Sometimes, extra learning materials were needed.)
+For the theoretical part, this course introduced the mathematical descriptions of many fundamental machine learning algorithms, including regression (linear, Ridge, LASSO), logistic regression, SVM (kernel, soft and hard margin), PCA (also via SVD), LDA, clustering, and neural networks (RNN, LSTM, CNN), etc. I enjoyed **re-deriving** each of them after class to ensure I had fully understood them, and I **gained many important intuitions through this process**. (Sometimes, extra learning materials were needed.)
 
-For the project, we were given a set of fmri data (cover the whole brain and a series of time, collected from people doing different tasks and across different nations) and required to draw brain atlases and carry out further analysis if possible. In the teamwork, I was the team leader who brought out most of the ideas and carried out important work, including drawing pipline to offer our group direction, revising our demonstration, presenting our work, etc.
+For the project, we were given a set of fMRI data (covering the 360 brain sites over 364 time points, collected from individuals performing different tasks and from different countries) and were required to generate brain atlases and conduct further analyses if possible. In the team, I served as the **team leader**, contributing most of the ideas and handling key responsibilities, including **drawing pipline to offer our guide our direction, revising our demonstration, presenting our work**, etc.
 
-><small>Dividing base on what features and how to evaluate the result are the two main points I focused on. Inspired by what I learned in Signals and Systems, I firstly tried to analyze data from frequency domain. However, the sparsity of time point causing huge information loss after Fourier transformation. Then I turned to extract the complexity as the feature of data and after learning complexity systematically and comparing the primary PCA result under different complexity, I finally determined to use Lempel-Ziv
-Complexity (LZC). Also inspired by the concept of sliding window from Signals and Systems, I further explores the influence on the window size and obtained unexpected result！<font color=grey>(smaller window retain more information? NO!)</font></small>
+>**Idea Generation**  
+Dividing **base on what features** and **how to evaluate** the result are the two main points I focused on. **Inspired by what I learned in Signals and Systems, I initially attempted to analyze the data in the frequency domain**. However, the sparsity of time points led to significant information loss after Fourier transformation. I then shifted to extracting data complexity as a feature. After **studying the concept of complexity systematically and comparing the preliminary PCA results** under different complexity measures, I ultimately chose Lempel-Ziv Complexity (LZC). Also **inspired by the sliding window concept from Signals and Systems**, I further explored the effect of window size and obtained an unexpected result！<font color=grey>(smaller window retain more information? NO!)</font>
 
-Our work is innovative because we were the only group focusing on the features of data and our strategy greatly lowers the burden of computation but with higher performance.
+Our work was innovative because we were the **only group focusing on the features of data** and our strategy greatly **lowers the burden of computation** while achieving **better performance**.
 <center>
-<img src="/images/course/ml_process.jpg" width=180/>   
-<img src="/images/course/ml_praise.jpg" width=200/> 
+<img src="/images/course/ml_process.webp" width=180/>   
+<img src="/images/course/ml_praise.webp" width=200/> 
 </center>
-<font color=grey><small><i>Screenshots of chats with TA. I got a lot of technical guidance from him :rose:~ At first, he suggested us to use conventional pipline to ensure an expected result, but I insisted on having a try unless it failed. Finally, he was amazed after my presentation.</i></small></font>
+<font color=grey><small><i>Screenshots of my chats with the TA — I received a lot of technical guidance from him :rose:~ Initially, <b>he suggested that we use a conventional pipeline to ensure expected results, but I insisted on trying my own approach unless it failed.</b> In the end, he was amazed by my presentation.</i></small></font>
 
 <center>
-    <img src="/images/course/ml_pre.JPG" width=290/>  
+    <img src="/images/course/ml_pre.webp" width=290/>  
     <a href="/files/course_mat/ml/SijieLi_MLproject_poster.pdf" target="_blank">
         <img src="/images/SijieLi_MLposter.webp" width=180/>
     </a>    
 </center>
 <center><font color=grey><small><i>⓵ I am presenting; ⓶ our poster (click for clear view).</i></small></font></center>
 
-We also wrote a [essay](/files/course_mat/ml/SijieLi_MLproject_report.pdf){:target="_blank"} on our project. I really harvested a lot from this project from ideas generating, recurrent trial, organizing work distribution, to result evaluation, demonstration (esp. how to use powerpoint and AI to aid academic drawing), and presentation.
+We also wrote an [essay](/files/course_mat/ml/SijieLi_MLproject_report.pdf){:target="_blank"} on our project. I truly gained a lot from this experience — from **idea generation, repeated trials, organizing task distribution, evaluating results, to presenting and demonstrating our findings** (especially learning how to use PowerPoint and AI tools for academic illustrations).
 
-*BTW, I come up with the idea to compare correlation matrices to validate the efficacy of LZC (which was praised by professor Liu) and latter I was surprised to find out that is it an important strategies in many tasks (e.g. determine the network motifs by comparing the frequency it occuring to a random network). I am so proud of myself!*
+*BTW, I came up with the idea to compare correlation matrices to validate the effectiveness of LZC (an idea praised by Professor Liu). Later, I was surprised to discover that this is actually a widely used strategy in many research areas (e.g., identifying network motifs by comparing their occurrence frequency with random networks). I’m so proud of myself!*
 
 <h2 id="6">Signals and Systems</h2>
-Typical signals (used as basis), typical systems and their combination, mathematical description of them, real applications, and processing signal using MATLAB are taught in this course. 
+This course covered typical signals (used as bases), common systems and their combinations, their mathematical descriptions, real-world applications, and signal processing using MATLAB. 
 
->I view the world differenty from then on. To my understanding, almost everything in the world can be extracted as signals and systems.
+Since then, I have viewed the world differently. In my understanding, **almost everything in the world can be abstracted as signals and systems**.
+{: .notice}
 
-I was responsible for course project to decode the movement (position, velocity -- nonquantum scale:grin:) from bunches of rador signal. Besides basic tasks, I also explored the way to use `fft()` to boost processing speed and to enhance resolution of multi-dimensions. 
+I was responsible for the course project to decode movement (position and velocity—at a non-quantum scale :grin:) from batches of radar signals. Besides basic tasks, I also explored using `fft()` to **boost processing speed** and **enhancing multi-dimensional resolution**. 
 <center>
     <a href="/files/course_mat/ss/SijeiLi_SS_slide.pdf" target="_blank">
-        <img src="/images/course/SijeiLi_SS_slide1.jpg" width=250/>
+        <img src="/images/course/SijeiLi_SS_slide1.webp" width=250/>
     </a>
     <a href="/files/course_mat/ss/SijeiLi_SS_slide.pdf" target="_blank">
-       <img src="/images/course/SijeiLi_SS_slide2.jpg" width=250/>
+       <img src="/images/course/SijeiLi_SS_slide2.webp" width=250/>
     </a>
     <a href="/files/course_mat/ss/SijeiLi_SS_slide.pdf" target="_blank">
-        <img src="/images/course/SijeiLi_SS_slide3.jpg" width=250/>
+        <img src="/images/course/SijeiLi_SS_slide3.webp" width=250/>
     </a>
 </center>
-<font color=grey><small><i>Click to view the slide. The clearly and neat demonstration along with the deep understanding won me the high praise from teacher (esp. for I was the few who clearly understanding why to choose specific precision and range when ploting the result). To be honest, I was first stuck with the mechanism of ambiguity function and lots of technique coding details. This also gives me a great sense of achievement after figuring everything out! I also pose a pending questions ignored by the teacher (at the final part of report).</i></small></font>
+<font color=grey><small><i>Click to view the slide. The clear and neat presentation, along with my deep understanding, earned me high praise from the teacher—especially because <b>I was one of the few students who clearly understood why specific precision and range were chosen when plotting the results</b>. To be honest, I was <b>initially stuck</b> on the mechanism of the ambiguity function and many technical coding details. This also gave me a greater sense of achievement after figuring everything out! I also raised a pending question that had been overlooked by the teacher (at the final part of report).</i></small></font>
 
-I also wrote a [report](/files/course_mat/ss/SijieLi_SS_report.pdf){:target="_blank"} on this project including details and codes. (Though there are three members, we had 2 projects and I was fully reponsible for this movement detection project.)
+I also wrote a [report](/files/course_mat/ss/SijieLi_SS_report.pdf){:target="_blank"} on this project including details and code. <small>(Although there were three members in our group, we completed two separate projects, and I was fully responsible for this movement detection one.)</small>
 
 <h2 id="4">Principles of Electric Gircuits</h2>
-Fundamentals of circuits (including the analysis in compolex domain and s-domian), analog circuit, and digital circuit are included in teh theoretical part.
+The theoretical part covered the fundamentals of circuits, including analysis in the complex domain and s-domain, as well as analog and digital circuits.
 
-For practicle part, we follow the diagram to manually weld divices (e.g. light, signal generator, arteriograph, etc.). Our final project is to weld a car and control its movement. I am responsible for the coding part and after trial and error with my teammates, we finally realizing controlling through both the infrared of remote control and bluetooth of our phones.
+In the practical part, we followed circuit diagrams to manually solder devices (e.g., lights, signal generators, arteriographs, etc.). Our final project was to assemble a car and control its movement. I was responsible for the coding part, and after much trial and error with my teammates, we finally achieved **control using both the infrared signals from a remote and Bluetooth from our phones**.
 
 <center>
 <div style="display: flex;          /* 启用弹性盒子布局 */
@@ -180,17 +184,17 @@ For practicle part, we follow the diagram to manually weld divices (e.g. light, 
            max-width: 90%;         /* 容器最大宽度 */">
     <!-- 原有普通图片 -->
     <div>
-        <img src="/images/course/PEC_welding.JPG" 
+        <img src="/images/course/PEC_welding.webp" 
                 width="180" 
                 style="vertical-align: top"> <!-- 避免图片底部留白 -->
     </div>
     <div>
-        <img src="/images/course/PEC_pre.JPG" 
+        <img src="/images/course/PEC_pre.webp" 
                 width="430" 
                 style="vertical-align: top"> <!-- 避免图片底部留白 -->
     </div>
     <div>
-        <img src="/images/course/PEC_car.jpeg" 
+        <img src="/images/course/PEC_car.webp" 
                 width="230" 
                 style="vertical-align: top"> <!-- 避免图片底部留白 -->
     </div>
@@ -200,11 +204,11 @@ For practicle part, we follow the diagram to manually weld divices (e.g. light, 
                overflow: auto;     /* 启用滚动条 */
                border: 0.05px solid #ddd; /* 可选边框 */">
         <a href="/images/course/PEC_code.png">
-            <img src="/images/course/PEC_code.png" 
+            <img src="/images/course/PEC_code.webp" 
                  style="width: 400px; /* 保持与外链图片同宽 */
                         height: auto; /* 保持原始比例 */">
         </a>
     </div>
 </div>
 </center>
-<font color=grey><small><i>⓵ I am welding; I am presenting on our welding process; ⓶ Control the car through phone; ⓷ Code on arduino to control the car. You can not imgine how exciting we were when we successfully realizing bluetooth control -- it was my first time to control something real through self-coding.</i></small>
+<font color=grey><small><i>⓵ I am soldering; ⓶ I am presenting on our welding process; ⓷ Control the car through phone; ⓸ Code on arduino to control the car. You can not imagine how exciting we were when we successfully achieved Bluetooth control -- it was my first time controlling a real-world device through my own code.</i></small>
