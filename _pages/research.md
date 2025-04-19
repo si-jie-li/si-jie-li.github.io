@@ -12,13 +12,13 @@ Here is the trajectory of my journey after I entered university:
 
 - **[Select BME](#1)**
 - **[Start from Anti-aging drug](#5)**  
-    Experience in [Zhiluo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab -- polymer synthesis and cell culturing
+    Experience in [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab -- polymer synthesis and cell culturing
 - **[Turn to computational methods](#2)**  
     machine learning and AIDD
 - **[Turmoil in seeking first-principle methods](#3)**  
     Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}’s Lab -- proteomics
 - **[Combine theoretical and computational methods](#6)**  
-    Experience in [Juliu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}'s lab -- fluid-structure interaction for vascular modeling
+    Experience in [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}'s lab -- fluid-structure interaction for vascular modeling
 - **[Determine research focus...](#4)**
 
 <h2 id="1">Select BME</h2>
@@ -29,7 +29,7 @@ During these consultations, I got a rough idea that biology involves many compen
 *<small>BTW, the professor introduce this just want me not to be so idealized in research. Throughout my journey, I kept consulting professors for advice, and the most common feedback I received was, “Don’t be so idealistic,” “It’s impossible,” and “Why do you want this?” :persevere:</small>*
 
 <h2 id="5">Start from Anti-aging drug</h2>
-Only a few professors were encouraging when I shared my dream of immortality, and my mentor Zhiluo was one of them. He guided me to start with polymer synthesis for diseases related to senescence, like calcification. To contribute to anti-aging research as soon as possible, I joined his lab to learn **polymer synthesis, characterization, and cell culturing**. Everything in the lab was new to me, so I reviewed every detail I learned and self-taught the principles behind the techniques. I also frquently audited group meetings to learn about the researches of senior members, absorbed the research principles taught by the professor, and got a general idea of how a lab run.
+Only a few professors were encouraging when I shared my dream of immortality, and my mentor Zhi Luo was one of them. He guided me to start with polymer synthesis for diseases related to senescence, like calcification. To contribute to anti-aging research as soon as possible, I joined his lab to learn **polymer synthesis, characterization, and cell culturing**. Everything in the lab was new to me, so I reviewed every detail I learned and self-taught the principles behind the techniques. I also frquently audited group meetings to learn about the researches of senior members, absorbed the research principles taught by the professor, and got a general idea of how a lab run.
 <center>
 <img src="/images/lab_log1.webp" width=300/>  
 <img src="/images/lab_log2.webp" width=300/>
@@ -84,9 +84,9 @@ That summer, I get to know the concept of **"emergent phenomenon" and "complex s
 <h2 id="6">Combine theoretical and computational methods</h2>
 Due to increasing personal mental barrier to chemical experiments, I felt extremely uncomfortable and anxious after the compulsory lab courses, and thus, was forced to withdraw the application for major transfer along with the leaving from professor Chris's lab.
 
-At the same time, inspired by the PEBBLE biocamp, I took *Thermodynamics and Statistical Mechanics* out of pure interest (And got A+ at the end, which again proves that I have the ability to do well in what I want to do :blush:). 
+At the same time, inspired by the PEBBLE BioFusion Camp, I took *Thermodynamics and Statistical Mechanics* out of pure interest (And got A+ at the end, which again proves that I have the ability to do well in what I want to do :blush:). 
 
-Reflecting once more on the path to my dream, I start my third research in Juliu's lab, where I studied vascular models under mechanical principles using computational tools.  (This is integrated design project offered by Engineering college which can serve as my graduation project.) Although this kind of simulation focuses on mesoscopic scale and mechanical aspects, my goal is to experience the integration of theory and computation, and to master useful computational skills and modeling principles.
+Reflecting once more on the path to my dream, I start my third research in Ju Liu's lab, where I studied vascular models under mechanical principles using computational tools.  (This is integrated design project offered by Engineering college which can serve as my graduation project.) Although this kind of simulation focuses on mesoscopic scale and mechanical aspects, my goal is to experience the integration of theory and computation, and to master useful computational skills and modeling principles.
 
 <center>
 <img src="/images/cylinder_mesh.webp" width=250/>
