@@ -31,7 +31,7 @@ By integrating **physics, AI, and systems biology**, develop first-principles-ba
 
 ## Capability
 ### Academic ability
-My exploration also strengthened my ability to learn and think interdisciplinarily. GPA of 3.94/4.00 and ranking **1/70** in my major validate my ability to learn well. Beyond coursework, I am highly self-driven, identifying knowledge gaps and independently seeking both online and offline resources to learn new concepts, which reflects my passion and proactive attitude.
+My exploration also strengthened my ability to learn and think interdisciplinarily. GPA of 3.94/4.00 and ranking **1/69** in my major validate my ability to learn well. Beyond coursework, I am highly self-driven, identifying knowledge gaps and independently seeking both online and offline resources to learn new concepts, which reflects my passion and proactive attitude.
 ### Comprehensive ability
 I actively engage in [academic](/activities#3){:target="_blank"} and [student](/activities#4){:target="_blank"} activities, where I develop my well-rounded abilities not just in academic pursuits but also in communication, leadership, management, and teamwork.
 

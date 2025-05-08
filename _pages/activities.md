@@ -6,6 +6,8 @@ I actively participate in both [academic activities](#3) and [student activities
 <h1 id="3">Academic Activities</h1>
 I **keep a close eye on information related to my areas of interest** through multiple platforms and often attend talks, workshops, presentations, seminars, meetings, and forums organized by students, professors, universities, or research institutions, both online and in person. At first, I struggled to understand all the details. However, through repeated participation, communication with professors, and the accumulation of interdisciplinary knowledge, I gradually learned how to make the most of these academic activities!
 
+I also made the most of the practical workshops offered by our library to develop academically relevant skills, like advanced use of various literature databases, scientific research drawing, literature management, etc. I was honored to be named a Star of Information Literacy.
+
 Some of the academic activities I have participated in include:
 - **Chemical Biology Summer Training Course** (Peking University, Summer 2024)
   - Explored chemical biology as a research tool and its applications, including proteomics, labeling, bioorthogonal reactions, synthesis, and more.
@@ -14,10 +16,11 @@ Some of the academic activities I have participated in include:
 <center>
 <img src="/images/activity/academic/peking_u.webp" width=110/> 
 <img src="/images/activity/academic/westlake.webp" width=222/>  
-<img src="/images/activity/academic/activity_card.webp" width=195/>   
+<img src="/images/activity/academic/activity_card.webp" width=195/>
+<img src="/images/activity/academic/information_literacy.webp" width=104/>
 </center>
 <center>
-<font color=grey><small><i>⓵ At Peking University; ⓶ At Westlake University; ⓷ Some of the name badges I collected from participating in the activites</i></small></font>
+<font color=grey><small><i>⓵ At Peking University; ⓶ At Westlake University; ⓷ Some of the name badges I collected from participating in the activites; ⓸ Certificate of Star of Information Literacy</i></small></font>
 </center>
 I hope to participate as a presenter in more academic events in the future, sharing interesting ideas and knowledge with others :fist:~
 
