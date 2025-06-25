@@ -60,7 +60,7 @@ I completed two course projects I’m particularly proud of this semester.
 I’m always amazed by the elegant and clever mathematics behind these algorithms—for example, I clearly remember **the “Aha” moment** when I fully understood the application of **De Bruijn Graphs** in **de novo assembly** and the compression algorithm of the **Burrows–Wheeler Transform** for building FM-indexes during **alignment**. Frequent exposure to statistical tests has also deepened my understanding:grinning:~
 
 - Practical Part  
-**Applying existing** online, command-line, and R tools **to solve real-world bioinformatics problems** (preprocessing raw data, data analysis, result visualization, and biological interpretation). The tasks covered include analysis of differential expression across multiple conditions, epigenetics (ChIP-seq), long-read sequencing, miRNA sequencing, single-cell RNA-seq, protein domains and structures, and more.  
+Applying existing online, command-line, and R tools to **solve real-world bioinformatics problems** (preprocessing raw data, data analysis, result visualization, and biological interpretation). The tasks covered include analysis of differential expression across multiple conditions, epigenetics (ChIP-seq), long-read sequencing, miRNA sequencing, single-cell RNA-seq, protein domains and structures, and more.  
 <small><font color=grey>I’ve even started to enjoy reading help documents!?!!</font></small>
 
 Besides lab practices, driven by curiosity about network construction and module detection in WGCNA, I reproduced these two algorithms as my final project.  
