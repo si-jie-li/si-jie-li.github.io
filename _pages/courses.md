@@ -10,15 +10,15 @@ The following are some of the couserwork (mainly after sophormore year) I have t
 **Most pictures will link to the slides or posters I created when clicked.** I always enjoy the process of designing slides and hope you can enjoy them too!
 
 ### 2025 Spring
-- :star: **[Bioinformatics](#8)**
+- :star: **[Bioinformatics](#8)** (A+)
 - **[Systems Biology](#9)** (A+)
-- **[Basic Synthetic Biology](#1)**
+- **[Basic Synthetic Biology](#1)** (A+)
 - **[Introduction to Nanobiomedicine](#10)** (A+)
 - **Scientific Writing**
   - Common knowledge related to publications, the process and techniques to write a paper (from text to figure), and tips for preparing academic presentations
   - <font color=grey>Andrew gave a really interesting class with many practical tips from his experience!</font>
 - **[Programmable Biomolecular Design](#2)** 
-- **Biomaterials and Tissue Engineering**
+- **Biomaterials and Tissue Engineering** (A+)
   - Synthesis, properties, and medical applications (mainly medical devices) of polymers, ceramics, metals, and composites
   - Key components, lab techniques, and clinical applications of tissue engineering
 
