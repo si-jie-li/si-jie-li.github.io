@@ -99,9 +99,9 @@ I became proficient in the pipeline for conducting FSI simulations, and grew mor
 
 Gradually, I came to realize that in most cases, it is neither necessary nor possible to build 100% correct models. **In my view, modeling is about applying known laws to reduce the information entropy of collected data—thereby extracting the meaningful insights we seek.**
 
-Recently, I have joined an iGEM team and took on the reponsiblity of **constructing individual-based models** of the tumor microenvironment to simulate the specific adhesion of engineered E. coli using CompuCell3D and PhysiCell.
+Recently, I have joined an iGEM team and took on the reponsiblity of **constructing individual-based models** of the tumor microenvironment to simulate the specific adhesion of engineered E. coli using CompuCell3D.
 
 <h2 id="4">Determine research focus...</h2>
-After the above exploration, I have gradually figure out the path towards my dream. Starting from simulations at the cellular and organoid levels, combining **first-principles and artificial intelligence**, and integrating **multi-scale and multi-modal data**, I want to contribute to the e**stablishment and validation of universal representations and virtual instruments**. (This is also inspired by [the Perspective article on AI virtual cell](https://doi.org/10.1016/j.cell.2024.11.015){:target="_blank"})
+After the above exploration, I have gradually figure out the path towards my dream. Starting from simulations at the cellular and organoid levels, combining **first-principles and artificial intelligence**, and integrating **multi-scale and multi-modal data**, I want to contribute to the **establishment and validation of universal representations and virtual instruments**. (This is also inspired by [the Perspective article on AI virtual cell](https://doi.org/10.1016/j.cell.2024.11.015){:target="_blank"})
 
 I will take research as my lifetime career to fulfill my dream. My focus may still seem to be too broad and I really appreciate if you have any suggestions, guidance, or even opportunities for me. Thank you for your time to go through my story!
