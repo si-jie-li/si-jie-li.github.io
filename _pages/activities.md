@@ -3,16 +3,18 @@ permalink: /activities/
 # title: "Activities"
 ---
 I actively participate in both [academic activities](#3) and [student activities](#5).
-<h1 id="3">Academic Activities</h1>
+<details open><summary><h1 id="3">Academic Activities</h1></summary><div markdown='1'>
 I **keep a close eye on information related to my areas of interest** through multiple platforms and often attend talks, workshops, presentations, seminars, meetings, and forums organized by students, professors, universities, or research institutions, both online and in person. At first, I struggled to understand all the details. However, through repeated participation, communication with professors, and the accumulation of interdisciplinary knowledge, I gradually learned how to make the most of these academic activities!
 
 I also made the most of the practical workshops offered by our library to develop academically relevant skills, like advanced use of various literature databases, scientific research drawing, literature management, etc. I was honored to be named a Star of Information Literacy.
 
 Some of the academic activities I have participated in include:
-- **Chemical Biology Summer Training Course** (Peking University, Summer 2024)
+- **Chemical Biology Summer Coursework** (Peking University, Summer 2024)
   - Explored chemical biology as a research tool and its applications, including proteomics, labeling, bioorthogonal reactions, synthesis, and more.
 - **[PEBBLE BioFusion Camp](#1)** (Westlake University, Summer 2024)
 - **[Undergraduate Life Sciences Conference](#2)** (SUSTech, Fall 2024)
+- **Quantitative Biology Summer Coursework** and **q-Bio 2025 conference** (Peking University, Summer 2025)
+- **[Summer Research](/research#8){:target="_blank"}** (Westlake University, Summer 2025)
 <center>
 <img src="/images/activity/academic/peking_u.webp" width=110/> 
 <img src="/images/activity/academic/westlake.webp" width=222/>  
@@ -23,8 +25,10 @@ Some of the academic activities I have participated in include:
 <font color=grey><small><i>⓵ At Peking University; ⓶ At Westlake University; ⓷ Some of the name badges I collected from participating in the activites; ⓸ Certificate of Star of Information Literacy</i></small></font>
 </center>
 I hope to participate as a presenter in more academic events in the future, sharing interesting ideas and knowledge with others :fist:~
+</div>
 
-<h2 id="1">PEBBLE BioFusion Camp</h2>
+<details open><summary>
+<h2 id="1">PEBBLE BioFusion Camp</h2></summary><div markdown='1'>
 I attended the camp when I was still in the stage of exploring my orientation -- feeling **unsatisfied with the uninterpretable results** of complex machine learning algorithms and **eager to equip myself with enough theoretical knowledge to explain those results from first principles**. And it really has changed the way I see the world!
 
 >**Harvest**   
@@ -43,7 +47,10 @@ Heavily inspired by these concepts, I clarified my objectives, began **learning 
 <font color=grey><small><i>Click to view the slide. ⓵ Biological background and motivation (my part); ⓶ Corresponding model eastablished; ⓷ Group photo (I am the third from the right)</i></small></font>
 
 We completed a group project, and I chose the project about **active matter** because **I wanted to try something completely unfamiliar**. At the beginning, I felt like a **headless fly** as I tried to learn the relevant concepts. However, through reading articles, watching videos, and inquiring Chatgpt, I gradually **understood** the modeling process in detail and even contributed constructively on model deduction during discussions with graduate students.
+</div>
+</details>
 
+<details open><summary>
 <h2 id="2">Undergraduate Life Sciences Conference</h2>
 <center>
 <img src="/images/activity/academic/biotech_pre.webp" width=300/>   
@@ -53,6 +60,7 @@ We completed a group project, and I chose the project about **active matter** be
 <center>
 <font color=grey><small><i>⓵ I am presenting; ⓶ Post-conference discussion; ⓷ Recognition from the audience</i></small></font>
 </center>
+</summary><div markdown='1'>
 At the conference, we undergraduate students shared our knowledge and understanding of biotechnology. I presented on the power of cardiovascular **modeling**, which I believe **is a technology that reveals hidden biological information by integrating physical theories**. Through the intensive preparation process, I further deepened my understanding of modeling and the finite element method.
 <center>
     <a href="/files/activity/academic/Sijie_bioTech_report.pdf" target="_blank">
@@ -64,10 +72,17 @@ At the conference, we undergraduate students shared our knowledge and understand
 </center>
 <font color=grey><small><i>Click to view the slide. (BTW, several audience members asked me about the techniques behind my slides—it was just a simple *sliding transition effect*!)</i></small></font>
 <br />
-<h1 id="4">Student Activities</h1>
+</div>
+</details>
+</details>
+
+
+<details open><summary>
+<h1 id="4">Student Activities</h1></summary><div markdown='1'>
 
 I have joined the [Student Branch of SUSTech Red Cross](#6) and the New Media Studio of Shuren College, both of which have provided me with opportunities to contribute and develop my comprehensive abilities, including presentation skills, leadership, and publicity-related competencies. **My reliability and dedication** to every task have earned me high praise and recognition, such as the Outstanding Student Leader Award. 
 <font color=grey><small><i>(Admittedly, my pursuit of perfection in these roles has sometimes led to overexertion and anxiety.)</i></small></font>
+
 <h2 id="6">Student Branch of SUSTech Red Cross</h2>
 In alignment with my dream of **longevity**, I joined the Red Cross to equip myself with **first-aid and health-related knowledge** in case of emergencies. I chose to work in the **publicity department**. On one hand, I want to make full use of the artistic skills I had developed earlier, continue creating art, and learn tools to **express myself in digital forms**, which are more widely promoted today than my familiar paper media. On the other hand, I aim to **spread these valuable knowledge to more people** so that more lives can be saved.
 
@@ -113,4 +128,6 @@ I was recommended for the position of publicity minister at the end of my first 
     <img src="/images/activity/student/RC_drill.webp" width=160/> 
 </center>
 <font color=grey><small><i>⓵ Mostly, our publicity guys are behind the camera; ⓶ Group photo of the puclicity department; ⓷ I’m recruiting new blood to our organization; ⓸ My participation in the drill.</i></small></font>
+</div>
+</details>
 

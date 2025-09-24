@@ -25,7 +25,7 @@ author:
   avatar           : "profile.webp"
   name             : "Sijie Li"
   pronouns         : # example: "she/her"  
-  bio              : "Junior Undergraduate"
+  bio              : "Senior Undergraduate"
   location         : "Shenzhen, China"
   employer         : "SUSTech"
   uri              : # URL
@@ -209,6 +209,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  parse_block_html: true
 
 
 # These settings control the types of collections used by the template

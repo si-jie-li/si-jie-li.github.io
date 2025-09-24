@@ -9,6 +9,10 @@ One of the characteristics of my coursework is its **interdisciplinary** nature,
 The following are some of the couserwork (mainly after sophormore year) I have taken, along with my takeaways.  
 **Most pictures will link to the slides or posters I created when clicked.** I always enjoy the process of designing slides and hope you can enjoy them too!
 
+### 2025 Fall
+- **Quantitative Physiology**
+
+
 ### 2025 Spring
 - :star: **[Bioinformatics](#8)** (A+)
 - **[Systems Biology](#9)** (A+)
@@ -52,7 +56,7 @@ I completed two course projects I’m particularly proud of this semester.
 - **Fundamentals of Engineering Mechanics** (A+)
   - Statics and dynamics
 
-<h2 id="8">Bioinformatics</h2>
+<details open><summary><h2 id="8">:star: bioinformatics</h2></summary><div markdown='1'>
 
 - Theoretical Part  
 **Experimental principles of data collection** (sequencing techniques, epigenomics, metabolomics, transcriptomics data of bulk, single-cell, and spatial, etc.) and the corresponding **analytical algorithms** (assembly, alignment, quantification, multidimensional data analysis, etc.).
@@ -84,7 +88,7 @@ Besides lab practices, driven by curiosity about network construction and module
 
 I used the **scale-free property** to determine the thresholding power of adjacency function, and was excited to get in touch with **complex systems**—which I hope to **leverage to uncover emergent principles and facilitate the construction of cell models**.
 
-<h2 id="9">Systems Biology</h2>
+</div></details><details><summary><h2 id="9">Systems Biology</h2></summary><div markdown='1'>
 - **Part 1**: How to quantitatively describe biology in a holistic way (mainly about network motifs)  
 - **Part 2**: Commonly used imaging principles and basic image processing tools (Fiji, MATLAB). I practiced these through simple tasks in the research context. [Practice Report](/files/course_mat/systems%20biology/Sijie_image_processiong.pdf){: .btn}{:target="_blank"}  
 - **Part 3**: Typical topics in systems biology — Flag Model (Drosophila stripe pattern), Diffusion–Reaction/Turing Model (zebrafish pattern, circadian clock, ratchet model, degrading oscillation), mechanical proofreading, cell movement, etc.
@@ -109,7 +113,7 @@ Since my interest lies in cell modeling, I chose to present the paper *How to Bu
 
 I also wrote a small [review](../files/course_mat/systems%20biology/CellModelRev_Sijie.pdf){: .btn}{:target="_blank"} titled *Cell Modeling Across Disciplines: A Review of Representative Models and Approaches*, discussing and comparing gene regulatory networks, metabolic networks, cell mechanics, and whole-cell models.
 
-<h2 id="1">Basic Synthetic Biology</h2>
+</div></details><details><summary><h2 id="1">Basic Synthetic Biology</h2></summary><div markdown='1'>
 I took this course because synthetic biology is a powerful tool for studying emergent phenomena. The course introduced typical building blocks, synthetic techniques, **gene circuit modeling**, and more.
 
 For the course project, I gave a presentation on the future after the creation of the first synthetic cell [(Gibson et al., 2010)](https://doi.org/10.1126/science.1190719){:target="_blank"}, which was a whole new topic for me. The limited preparation time and the good performance prove my ability to read literature and quickly get the hang of an unfamiliar field. In the final project, I reported on *Synthetic protein circuits for programmable control of mammalian cell death* [(Xia et al., 2024)](https://doi.org/10.1016/j.cell.2024.03.031){:target="_blank"}.
@@ -135,7 +139,7 @@ For the course project, I gave a presentation on the future after the creation o
 <font color=grey><small><i>The professor praised my presentation :grinning:~</i></small></font>
 </center>
 
-<h2 id="10">Introduction to Nanobiomedicine</h2>
+</div></details><details><summary><h2 id="10">Introduction to Nanobiomedicine</h2></summary><div markdown='1'>
 Learned about the synthesis, characterization, properties, and medical applications of nanomaterials and related techniques. This includes microfluidics, organ-on-chip, surface modification, nanoelectromechanical systems (NEMS), etc.  
 
 In the midterm, I reported on the ability of carbon nanotubes to cross the blood–brain barrier [slide](../files/course_mat/nano_BBB_sijie.pdf){: .btn}{:target="_blank"}. For the final project, after group investigation, I proposed the idea ***Using DNA–Protein Hydrogels to Study T-cell Activation Parameters Based on Microfluidics***, and presented it with my group.
@@ -152,7 +156,7 @@ The idea was inspired by the mechanically tunable properties of recently synthes
 </center>
 <font color=grey><small><i>Click to view the slides of our group. ⓵⓶ Presentation of our research proposal and I was responsible for the "design" section; ⓷ I am sparking group discussion with my ideas</i></small></font>
 
-<h2 id="2">Programmable Biomolecular Design</h2>
+</div></details><details><summary><h2 id="2">Programmable Biomolecular Design</h2></summary><div markdown='1'>
 I participated as an **auditing** student, and have learned the **design principles** of DNA, RNA, and proteins, along with the use of various design and visualization **tools**, including pyRosetta, Tiamat, caDNAno, PyMol, etc.
 <center>
 <img src="/images/course/pbd_2.webp" width=250/>
@@ -164,7 +168,7 @@ I participated as an **auditing** student, and have learned the **design princip
 </center>
 The use of AI in prediction and design was also covered, and AI tools such as **ProteinMPNN** and **AlphaFold** were practiced in the lab sessions.
 
-<h2 id="3">Biomechanics</h2>
+</div></details><details><summary><h2 id="3">Biomechanics</h2></summary><div markdown='1'>
 The essence of this course is learning how to **abstract and simplify objectives to a reasonable degree**, enabling the quantitative description of biological behaviors. 
 
 In the course project, I was responsible for establishing a tube model to theoretically explore the effects of ventricular septal defects, aiming to facilitate clinical judgment on whether to carry out surgery.
@@ -179,7 +183,7 @@ In the course project, I was responsible for establishing a tube model to theore
 <center><font color=grey><small><i>Click to view the slide of our group.</i></small></font></center>
 
 Our group also wrote an [essay](/files/course_mat/BM_final_report.pdf){: .btn}{:target="_blank"} about our work.
-<h2 id="4">Intelligent Sensing Technology</h2>
+</div></details><details><summary><h2 id="4">Intelligent Sensing Technology</h2></summary><div markdown='1'>
 This course, taught by my mentor, inspired me a lot! The principles and engineering thinking behind sensors always amaze me. I really enjoyed the **quantitative thinking** and the **clever tricks used to bridge theories to applications** tpresented in this course.
 
 In our presentation, we gave an overview on the early identification of Alzheimer's disease and we had to go through extensive searching and reading to build a broad understanding of the existing methods. I was responsible for all parts except the OCT detection.
@@ -199,7 +203,7 @@ In our presentation, we gave an overview on the early identification of Alzheime
 </center>
 During the preparation, I gained a deeper understanding — the essence of a sensor is to **convert characteristics into detectable signals utilizing existing knowledge** (physical theories, material properties, etc.).
 
-<h2 id="5">Machine Learning and Its Medical Engineering Applications</h2>
+</div></details><details open><summary><h2 id="5">:star: machine Learning and Its Medical Engineering Applications</h2></summary><div markdown='1'>
 For the theoretical part, this course introduced the mathematical descriptions of many fundamental machine learning algorithms, including regression (linear, Ridge, LASSO), logistic regression, SVM (kernel, soft and hard margin), PCA (principle and realization via SVD), LDA, clustering, and neural networks (RNN, LSTM, CNN), etc. I enjoyed **re-deriving** each of them after class to ensure I had fully understood them, and I **gained many important intuitions through this process**. (Sometimes, extra learning materials were needed.)
 
 For the project, we were given a set of fMRI data (covering the 360 brain sites over 364 time points, collected from individuals performing different tasks and from different countries) and were required to generate brain atlases and conduct further analyses if possible. In the team, I served as the **team leader**, contributing most of the ideas and handling key responsibilities, including **drawing pipline to offer our guide our direction, revising our demonstration, presenting our work**, etc.
@@ -226,7 +230,7 @@ We also wrote an [essay](/files/course_mat/ml/SijieLi_MLproject_report.pdf){:tar
 
 *BTW, I came up with the idea to compare correlation matrices to validate the effectiveness of LZC (an idea praised by Professor Liu). Later, I was surprised to discover that this is actually a widely used strategy in many research areas (e.g., identifying network motifs by comparing their occurrence frequency with random networks). I’m so proud of myself!*
 
-<h2 id="6">Signals and Systems</h2>
+</div></details><details open><summary><h2 id="6">:star: signals and Systems</h2></summary><div markdown='1'>
 This course covered typical signals (used as bases), common systems and their combinations, their mathematical descriptions, real-world applications, and signal processing using MATLAB. 
 
 Since then, I have viewed the world differently. In my understanding, **almost everything in the world can be abstracted as signals and systems**.
@@ -248,7 +252,7 @@ I was responsible for the course project to decode movement (position and veloci
 
 I also wrote a [report](/files/course_mat/ss/SijieLi_SS_report.pdf){: .btn}{:target="_blank"} on this project including details and code. <small>(Although there were three members in our group, we completed two separate projects, and I was fully responsible for this movement detection one.)</small>
 
-<h2 id="4">Principles of Electric Gircuits</h2>
+</div></details><details><summary><h2 id="4">Principles of Electric Gircuits</h2></summary><div markdown='1'>
 The theoretical part covered the fundamentals of circuits, including analysis in the complex domain and s-domain, as well as analog and digital circuits.
 
 In the practical part, we followed circuit diagrams to manually solder devices (e.g., lights, signal generators, arteriographs, etc.). Our final project was to assemble a car and control its movement. I was responsible for the coding part, and after much trial and error with my teammates, we finally achieved **control using both the infrared signals from a remote and Bluetooth from our phones**.
