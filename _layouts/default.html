@@ -63,5 +63,43 @@ layout: compress
         };
       });
     </script>
+    <script>
+      (function () {
+        function openDetailsFromHash() {
+          if (!location.hash) return;
+          const id = decodeURIComponent(location.hash.slice(1));
+          const el = document.getElementById(id);
+          if (!el) return;
+      
+          // 向上找所有 <details>，逐个展开
+          let node = el;
+          while (node && node !== document.documentElement) {
+            if (node.tagName && node.tagName.toLowerCase() === 'details') {
+              node.open = true;
+            }
+            node = node.parentElement;
+          }
+      
+          // 平滑滚动到目标并可选高亮
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          el.classList.add('hash-target');
+          setTimeout(() => el.classList.remove('hash-target'), 2000);
+        }
+      
+        document.addEventListener('DOMContentLoaded', openDetailsFromHash);
+        window.addEventListener('hashchange', openDetailsFromHash);
+      })();
+      </script>
+      
+      <style>
+      /* 可选：锚点高亮两秒 */
+      .hash-target {
+        outline: 2px solid currentColor;
+        background: rgba(255, 255, 0, 0.2);
+        transition: background 0.6s ease;
+      }
+      </style>
+      
   </body>
 </html>
+

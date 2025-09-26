@@ -27,7 +27,7 @@ Here is the trajectory of my journey after I entered university:
 - **[Future...](#9)** -->
 
 <details>
-<summary><h2 id="1">Select BME</h2></summary>
+<summary><h2 id="1">Select BME <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span> </h2></summary>
 <div markdown="1">
 At SUSTech, we don’t select a major in the first year. To figure out which major can equip me with the most relevant skills and knowledge to achieve my dream, I consulted with several professors, primarily from the Biology and Biomedical Engineering departments. After learning about the focus of these majors, I chose BME, which, in my opinion then, addresses senescence **from an engineering perspective** to find solutions, while biology focuses on uncovering the mechanisms.
 
@@ -38,9 +38,9 @@ During these consultations, I got a rough idea that biology involves many compen
 </details>
 
 <details>
-<summary><h2 id="5">Start with Anti-aging drug</h2>
+<summary><h2 id="5">Start with Anti-aging drug <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 <div markdown="1">
-Experience in [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab -- polymer synthesis and cell culturing
+Experience in [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab (SUSTech) -- polymer synthesis and cell culturing
 </div>
 </summary>
 <div markdown="1">
@@ -57,7 +57,7 @@ However, during the first summer, the senior apprentice was too busy to mentor m
 
 
 <details>
-<summary><h2 id="2">Turn to computational methods</h2>
+<summary><h2 id="2">Turn to computational methods <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 machine learning and AIDD
 </summary>
 <div markdown='1'>
@@ -84,9 +84,9 @@ However, the more I learned about machine learning, the more concerned I became 
 </details>
 
 <details>
-<summary><h2 id="3">Turmoil in seeking first-principles methods</h2>
+<summary><h2 id="3">Turmoil in seeking first-principles methods <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 <div markdown='1'>
-Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}’s Lab -- proteomics
+Experience in [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}’s Lab (SUSTech)-- proteomics
 </div>
 </summary>
 <div markdown='1'>
@@ -114,9 +114,9 @@ That summer, I get to know the concept of **"emergent phenomenon" and "complex s
 
 
 <details>
-<summary><h2 id="6">Combine theoretical and computational methods</h2>
+<summary><h2 id="6">Combine theoretical and computational methods <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 <div markdown='1'>
-- Research in [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}'s lab -- fluid-structure interaction for vascular modeling
+- Research in [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}'s lab (SUSTech)-- fluid-structure interaction for vascular modeling
 - Involvement in iGEM -- Modeling using CompuCell3D
 </div></summary>
 <div markdown='1'>
@@ -141,13 +141,13 @@ Gradually, I came to realize that in most cases, it is neither necessary nor pos
 </div>
 </details>
 
-<details open>
+<details>
 <summary>
-<h2 id="4">Identify research focus and pursue related research!</h2>
+<h2 id="4">Identify research focus and pursue related research! <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 <div markdown='1'>
-- :star: Research in [Yifan Yang](https://www.westlake.edu.cn/faculty/Yifan-Yang.shtml){:target="_blank"}'s lab -- [Quantitative biology & systems aging](#8)
-- :star: Research in [Peng He](https://profiles.ucsf.edu/peng.he){:target="_blank"}'s lab -- [Bioinformatics data analysis and tool development](#7)
-- :star: Research in [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab -- Microwell RNA-seq data analysis for drug screening
+- :star: Research in [Yifan Yang](https://www.westlake.edu.cn/faculty/Yifan-Yang.shtml){:target="_blank"}'s lab (Westlake University)-- [Quantitative biology & systems aging](#8)
+- :star: Research in [Peng He](https://profiles.ucsf.edu/peng.he){:target="_blank"}'s lab (UCSF)-- [Bioinformatics data analysis and tool development](#7)
+- :star: Research in [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}'s lab (SUSTech)-- Microwell RNA-seq data analysis for drug screening
 </div></summary>
 <div markdown='1'>
 Based on the above exploration and greatly inspired by [the Perspective article on AI virtual cell](https://doi.org/10.1016/j.cell.2024.11.015){:target="_blank"}, I have now figured out a relatively clear path toward my dream.

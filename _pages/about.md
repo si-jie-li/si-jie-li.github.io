@@ -26,7 +26,7 @@ replace all of these by figures and caption-->
 <img src="/images/objectives_colorful.webp" width=1000/>  
 </center>
 1. **Emergent Laws of Biology**: Investigating the emergent principles of biological systems to quantitatively and systematically understand senescence, identify barriers to longevity, and inspire AI model designs tailored for biological data;
-2. **Machinelearning**: Developing AI virtual cells, finally virtual human, to accelerate accelerate wet-lab discovery of anti-aging strategies;
+2. **AI virtual cell**: Developing AI virtual cells, finally virtual human, to accelerate accelerate wet-lab discovery of anti-aging strategies;
 3. **Bioinformatics**: Advancing methods to extract more insights from large-scale data, provide high-quality training data, and develop one-click tools to lower the barrier of analysis and accelerate the discovery of emergent biological laws.
 {: .notice} 
 
@@ -38,28 +38,28 @@ I have **explored all three directions through research projects**, with particu
 ### Dry lab
 I categorize my lab experience, main ongoing projects, and course projects based on my research directions above.
 - Bioinformatics 
-  - Ongoing Project (Mentored by [Peng He](https://profiles.ucsf.edu/peng.he){:target="_blank"}): [Pipeline and algorithm development to enhance RNA-seq analysis](/research#7){:target="_blank"}
-  - Onging Project (Mentored by [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}): Microwell RNA-seq data analysis for drug screening
-  - Course Project: [WGCNA Network construction and Dynamic TreeCut Reproduction](/courses#8){:target="_blank"}
+  - Ongoing Project (Mentored by [Peng He](https://profiles.ucsf.edu/peng.he){:target="_blank"}, UCSF): [Pipeline and algorithm development to enhance RNA-seq analysis](/research#7){:target="_blank"}
+  - Onging Project (Mentored by [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}, SUSTech): Microwell RNA-seq data analysis for drug screening
+  - Course Project (Spring 2025): [WGCNA Network construction and Dynamic TreeCut Reproduction](/courses#8){:target="_blank"}
 - Emergent Laws of Biology
-  - Research Experience: (Mentored by [Yifan Yang](https://www.westlake.edu.cn/faculty/Yifan-Yang.shtml){:target="_blank"}) [Mechanistic explanation of the saturated-removal model using mean-field theory](/research#8){:target="_blank"}
+  - Research Experience (Summer 2025) (Mentored by [Yifan Yang](https://www.westlake.edu.cn/faculty/Yifan-Yang.shtml){:target="_blank"}, Westlake University): [Mechanistic explanation of the saturated-removal model using mean-field theory](/research#8){:target="_blank"}
 - Machine Learning
-  - Course Project: [Brain region segmentation with fMRI data](/courses#5){:target="_blank"}
+  - Course Project (Spring 2024): [Brain region segmentation with fMRI data](/courses#5){:target="_blank"}
 - Others (mostly, Engineering)
-  - Research Experience (Mentored by [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}): [FSI Modeling of the Vasculature](/research#6){:target="_blank"}  
-  - Course Project: [Motion Detection via Communication Signals](/courses#6){:target="_blank"}
-  - iGEM: Modeling E. coli specific adhesion in the tumor microenvironment using CompuCell3D
+  - Research Experience (2024 -- 2025) (Mentored by [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}, SUSTech): [FSI Modeling of the Vasculature](/research#6){:target="_blank"}  
+  - Course Project (Spring 2025): [Motion Detection via Communication Signals](/courses#6){:target="_blank"}
+  - iGEM (2025): Modeling E. coli specific adhesion in the tumor microenvironment using CompuCell3D
   <!-- - iGEM: [Modeling Specific Adhesion of E.coli in tumor microenvironment using CompuCell 3D](/research#6){:target="_blank"} -->
 
 ### Wet Lab
-- Lab Experience: (Mentored by [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}) [Cell Culturing and Polymer Synthesis](/research#5){:target="_blank"}
-- Lab Experience: (Mentored by [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}) [Proteomics](/research#3){:target="_blank"}  
+- Lab Experience (Summer 2023) (Mentored by [Zhi Luo](https://faculty.sustech.edu.cn/?tagid=luoz&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}, SUSTech): [Cell Culturing and Polymer Synthesis](/research#5){:target="_blank"}
+- Lab Experience (Summer 2024) (Mentored by [Chris Soon Heng Tan](https://faculty.sustech.edu.cn/?tagid=christan&iscss=1&snapid=1&orderby=date&go=2&lang=en){:target="_blank"}, SUSTech): [Proteomics](/research#3){:target="_blank"}  
 
 ## Capability
 ### Academic ability
-My exploration also strengthened my ability to learn and think interdisciplinarily. GPA of 3.95/4.00 and ranking **1/68** in my major validate my ability to learn well. Beyond coursework, I am highly self-driven, identifying knowledge gaps and independently seeking both online and offline resources to learn new concepts, which reflects my passion and proactive attitude.
+My exploration also strengthened my ability to learn and think interdisciplinarily. GPA of 3.95/4.00 and ranking **1/68** in my major validate my ability to learn well. Beyond [coursework](/courses){:target="_blank"}, I am highly self-driven, identifying knowledge gaps and independently seeking both online and offline resources to learn new concepts, which reflects my passion and proactive attitude.
 ### Comprehensive ability
-I actively engage in [academic](/activities#3){:target="_blank"} and [student](/activities#4){:target="_blank"} activities, where I develop my well-rounded abilities not just in academic pursuits but also in communication, leadership, management, and teamwork.
+I actively engage in [academic](/activities#3){:target="_blank"} and [student activities](/activities#4){:target="_blank"}, where I develop my well-rounded abilities not just in academic pursuits but also in communication, leadership, management, and teamwork.
 
 In [life](/life/){:target="_blank"}, I believe in maintaining a healthy and balanced lifestyle—one that is energetic, positive, curious, perfectionistic (sometimes may go too much and need to overcome) and maybe a little quirky:smile:. I enjoy running, creative arts, and exploring new ideas.
 
