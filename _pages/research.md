@@ -141,7 +141,7 @@ Gradually, I came to realize that in most cases, it is neither necessary nor pos
 </div>
 </details>
 
-<details open>
+<details>
 <summary>
 <h2 id="4">Identify research focus and pursue related research! <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2>
 <div markdown='1'>
