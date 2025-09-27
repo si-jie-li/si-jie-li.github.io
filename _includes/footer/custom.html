@@ -1,3 +1,56 @@
 <!-- start custom footer snippets -->
 <a href="/sitemap/">Sitemap</a>
+
+<script defer>
+(function () {
+  function resolveTargetFromHash() {
+    if (!location.hash) return null;
+    const raw = decodeURIComponent(location.hash.slice(1));
+    if (!raw) return null;
+    let el = document.getElementById(raw);
+    // 兼容主题插入的空 <a id="..."></a> 锚点
+    if (el && el.tagName === 'A' && el.textContent.trim() === '' && el.parentElement) {
+      if (/^H[1-6]$/.test(el.parentElement.tagName) || el.parentElement.tagName === 'SUMMARY') {
+        el = el.parentElement;
+      } else if (el.nextElementSibling && /^H[1-6]$/.test(el.nextElementSibling.tagName)) {
+        el = el.nextElementSibling;
+      }
+    }
+    return el;
+  }
+
+  function expandDetails(el) {
+    let n = el;
+    while (n && n !== document.documentElement) {
+      if (n.tagName && n.tagName.toLowerCase() === 'details') n.open = true;
+      n = n.parentElement;
+    }
+  }
+
+  function highlightAndScroll(el) {
+    requestAnimationFrame(() => {
+      el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      el.classList.add('hash-target');
+      setTimeout(() => el.classList.remove('hash-target'), 2000);
+    });
+  }
+
+  function tryOpen(retry = 10) {
+    const el = resolveTargetFromHash();
+    if (el) { expandDetails(el); highlightAndScroll(el); return; }
+    if (retry > 0) setTimeout(() => tryOpen(retry - 1), 100);
+  }
+
+  ['DOMContentLoaded','pageshow','hashchange','turbolinks:load','pjax:complete']
+    .forEach(e => window.addEventListener(e, () => tryOpen(), { passive: true }));
+})();
+</script>
+
+<style>
+.hash-target {
+  outline: 2px solid currentColor;
+  background: rgba(255, 255, 0, 0.2);
+  transition: background 0.6s ease;
+}
+</style>
 <!-- end custom footer snippets -->
