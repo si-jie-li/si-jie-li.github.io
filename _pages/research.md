@@ -135,8 +135,13 @@ Reflecting once more on the path to my dream, I started my third research experi
 
 I became proficient in **the pipeline for conducting FSI simulations**, and grew more familiar with **Linux, high-performance clusters**, and parallel computing.  In addition to technical skills, I self-studied basic biomechanics and principles of the Finite Element Method (FEM).
 
-I also joined the SUSTech-Med iGEM team and took responsibility for modeling the specific adhesion of engineered E. coli in the tumor microenvironment, demonstrating the specificity of our designed method against rectal cancer. Through this experience, I learned the principles and use of the cell modeling tool **CompuCell3D**, bringing me closer to cell modeling from an individual-based and mechanistic perspective.
+I also joined the SUSTech-Med iGEM team and took responsibility for modeling the specific adhesion of engineered E. coli in the tumor microenvironment, demonstrating the specificity of our designed method against rectal cancer. Through this experience, I learned the principles and use of the cell modeling tool **CompuCell3D**, bringing me closer to cell modeling from an individual-based and mechanistic perspective. 
 
+I also developed some technical skills to present and demonstrate research work, including:
+- Frontend web development: Built the [project description page](https://2025.igem.wiki/sustech-med/model?tab=model2){:target="_blank"} independently using `.tsx` and `.ts` files (rather than simple `.md` pages), with additional design improvements for a more polished appearance.
+- Video production: Created a short video to introduce and demonstrate the simulation results all by myself. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P2ZB2qRmnZA?si=waxwpAWMdjpfukDn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 Gradually, I came to realize that in most cases, it is neither necessary nor possible to build 100% correct models. **In my view, modeling is about applying known laws to reduce the information entropy of collected data—thereby extracting the meaningful insights we seek.**
 </div>
 </details>
