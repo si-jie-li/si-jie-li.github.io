@@ -230,7 +230,7 @@ We also wrote an [essay](/files/course_mat/ml/SijieLi_MLproject_report.pdf){:tar
 
 *BTW, I came up with the idea to compare correlation matrices to validate the effectiveness of LZC (an idea praised by Professor Liu). Later, I was surprised to discover that this is actually a widely used strategy in many research areas (e.g., identifying network motifs by comparing their occurrence frequency with random networks). I’m so proud of myself!*
 
-</div></details open><details><summary><h2 id="6">:star: signals and Systems <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2></summary><div markdown='1'>
+</div></details><details open><summary><h2 id="6">:star: signals and Systems <span style="color: #cccccc; font-size: 0.7em;">click to unfold</span></h2></summary><div markdown='1'>
 This course covered typical signals (used as bases), common systems and their combinations, their mathematical descriptions, real-world applications, and signal processing using MATLAB. 
 
 Since then, I have viewed the world differently. In my understanding, **almost everything in the world can be abstracted as signals and systems**.
