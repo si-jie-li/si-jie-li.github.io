@@ -9,11 +9,11 @@ I **keep a close eye on information related to my areas of interest** through mu
 I also made the most of the practical workshops offered by our library to develop academically relevant skills, like advanced use of various literature databases, scientific research drawing, literature management, etc. I was honored to be named a Star of Information Literacy.
 
 Some of the academic activities I have participated in include:
-- **Chemical Biology Summer Coursework** (Peking University, Summer 2024)
+- **Chemical Biology Summer Course** (Peking University, Summer 2024)
   - Explored chemical biology as a research tool and its applications, including proteomics, labeling, bioorthogonal reactions, synthesis, and more.
 - **[PEBBLE BioFusion Camp](#1)** (Westlake University, Summer 2024)
 - **[Undergraduate Life Sciences Conference](#2)** (SUSTech, Fall 2024)
-- **Quantitative Biology Summer Coursework** and **q-Bio 2025 conference** (Peking University, Summer 2025)
+- **Quantitative Biology Summer Course** and **q-Bio 2025 conference** (Peking University, Summer 2025)
 - **[Summer Research](/research#8){:target="_blank"}** (Westlake University, Summer 2025)
 <center>
 <img src="/images/activity/academic/peking_u.webp" width=110/> 
