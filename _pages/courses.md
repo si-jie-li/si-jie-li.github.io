@@ -11,7 +11,11 @@ The following are some of the couserwork (mainly after sophormore year) I have t
 
 ### 2025 Fall
 - **Quantitative Physiology**
-
+  - Modeling and quantitative analysis of physiological processes, including enzyme kinetics, O₂/CO₂ homeostasis, diffusion, and membrane potential dynamics.
+  - [Shared a work related to sweat metabolite quantification and modeling.](/files/course_mat/%20Sweat_Qphy_Sijie.pdf)
+- **Biomedical Engineering Labotary I**
+  - Covers topics including microscopy, biomechanical testing, microfluidics, biomaterials and drug delivery, basics of cell culture, and osmotic loading of cells. For each topic, I learned the underlying principles, performed experiments, analyzed the resulting data, and wrote reports in scientific paper format.
+  - Gave a group [presentation on single-cell technologies.](/files/course_mat/BMElabpre_sc_Sijie.pdf).
 
 ### 2025 Spring
 - :star: **[Bioinformatics](#8)** (A+)
