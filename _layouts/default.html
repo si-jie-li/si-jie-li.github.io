@@ -73,7 +73,7 @@ layout: compress
       });
     </script>
     <script>
-      // Floating TOC auto-generation (h1+h2 hierarchical)
+      // Floating TOC — works even when GitHub Pages strips id attrs from headings
       document.addEventListener('DOMContentLoaded', function() {
         var tocList = document.getElementById('toc-list');
         var tocContainer = document.getElementById('floating-toc');
@@ -82,11 +82,14 @@ layout: compress
         var content = document.querySelector('.page__content');
         if (!content) { tocContainer.style.display = 'none'; return; }
 
-        // Collect h1[id] and h2[id] in DOM order
-        var headings = Array.prototype.slice.call(content.querySelectorAll('h1[id], h2[id]'));
-        if (headings.length < 2) { tocContainer.style.display = 'none'; return; }
+        // Generate a URL-safe slug from text
+        function slugify(text) {
+          return 'toc-' + text.toLowerCase()
+            .replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/^-+|-+$/g, '')
+            || 'toc-section';
+        }
 
-        // Helper: extract direct text from a heading (ignores child div subtitle text)
+        // Extract visible text from a heading node only (skip nested divs/etc.)
         function headingText(h) {
           var text = '';
           for (var i = 0; i < h.childNodes.length; i++) {
@@ -95,47 +98,70 @@ layout: compress
           return text.trim() || h.textContent.trim().split('\n')[0].trim();
         }
 
-        // Helper: open all ancestor <details> of an element, then scroll to it
+        // Open all ancestor <details> then smooth-scroll to element
         function openAndScroll(el) {
           var node = el.parentElement;
           while (node && node !== document.documentElement) {
-            if (node.tagName && node.tagName.toLowerCase() === 'details') {
-              node.open = true;
-            }
+            if (node.tagName && node.tagName.toLowerCase() === 'details') node.open = true;
             node = node.parentElement;
           }
-          setTimeout(function() {
-            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          }, 50);
+          setTimeout(function() { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 60);
         }
 
-        var currentH1Li = null;
-        var currentSubList = null;
-        var allHeadings = [];
+        var sections = [];
+        var usedIds = {};
 
-        headings.forEach(function(h) {
+        // Pass 1: headings inside <summary> (section titles).
+        // GitHub Pages may strip id= from h1/h2 in HTML blocks, so we assign
+        // a slug-based id when one is missing rather than skipping the heading.
+        content.querySelectorAll('summary').forEach(function(summary) {
+          var h = summary.querySelector('h1, h2');
+          if (!h) return;
+          if (!h.id) {
+            var base = slugify(h.textContent), slug = base, n = 1;
+            while (usedIds[slug]) slug = base + '-' + (n++);
+            h.id = slug;
+          }
+          usedIds[h.id] = true;
+          sections.push(h);
+        });
+
+        // Pass 2: standalone h1/h2 with id= that are NOT inside a summary
+        content.querySelectorAll('h1[id], h2[id]').forEach(function(h) {
+          if (h.closest && h.closest('summary')) return;
+          if (usedIds[h.id]) return;
+          usedIds[h.id] = true;
+          sections.push(h);
+        });
+
+        if (sections.length < 2) { tocContainer.style.display = 'none'; return; }
+
+        // Sort by DOM order
+        sections.sort(function(a, b) {
+          return a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1;
+        });
+
+        // Build nested TOC list (h1 = top-level, h2 = sub-item)
+        var currentH1Li = null, currentSubList = null;
+
+        sections.forEach(function(h) {
           var a = document.createElement('a');
           a.href = '#' + h.id;
           a.textContent = headingText(h);
-          allHeadings.push({ el: h, link: a });
-
-          // Click: prevent default, open details, scroll
           a.addEventListener('click', function(e) {
             e.preventDefault();
             openAndScroll(h);
             history.pushState(null, '', '#' + h.id);
           });
 
+          var li = document.createElement('li');
+          li.appendChild(a);
+
           if (h.tagName.toLowerCase() === 'h1') {
-            var li = document.createElement('li');
-            li.appendChild(a);
             tocList.appendChild(li);
             currentH1Li = li;
             currentSubList = null;
           } else {
-            // h2 — nest under preceding h1, or top-level if no h1 seen yet
-            var li = document.createElement('li');
-            li.appendChild(a);
             if (currentH1Li) {
               if (!currentSubList) {
                 currentSubList = document.createElement('ul');
@@ -148,18 +174,18 @@ layout: compress
           }
         });
 
-        // Scroll-aware active section highlighting
+        // Scroll-aware active section highlighting via IntersectionObserver
         var observer = new IntersectionObserver(function(entries) {
           entries.forEach(function(entry) {
             if (entry.isIntersecting) {
               tocContainer.querySelectorAll('a').forEach(function(l) { l.classList.remove('toc--active'); });
-              var activeLink = tocContainer.querySelector('a[href="#' + entry.target.id + '"]');
-              if (activeLink) activeLink.classList.add('toc--active');
+              var link = tocContainer.querySelector('a[href="#' + entry.target.id + '"]');
+              if (link) link.classList.add('toc--active');
             }
           });
         }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
 
-        allHeadings.forEach(function(item) { observer.observe(item.el); });
+        sections.forEach(function(h) { observer.observe(h); });
       });
     </script>
     <script>
