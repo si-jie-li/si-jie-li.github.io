@@ -44,6 +44,13 @@ layout: default
         </header>
       {% endunless %}
 
+      <aside class="floating-toc" id="floating-toc">
+        <nav class="toc">
+          <header class="nav__title">Contents</header>
+          <ul class="toc__menu" id="toc-list"></ul>
+        </nav>
+      </aside>
+
       <section class="page__content" itemprop="text">
         {{ content }}
 

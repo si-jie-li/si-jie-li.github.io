@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I’m happy to share more about myself and my journey with you :hugs:~
 
-I’m Sijie Li [^1] , from Guangzhou, China, currently an undergraduate majoring in Biomedical Engineering at Southern University of Science and Technology (SUSTech). Right now, I am actively exploring and learning in pursuit of my ultimate dream: longevity :running_woman:... I aspire to dedicate my career to scientific research to get close to my dream.
+I’m Sijie Li [^1] , from Guangzhou, China, currently an undergraduate majoring in Biomedical Engineering at [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/). Right now, I am actively exploring and learning in pursuit of my ultimate dream: longevity :running_woman:... I aspire to dedicate my career to scientific research to get close to my dream.
 
 [^1]: Sijie (given name) Li (family name). 
 
@@ -48,7 +48,7 @@ I categorize my lab experience, main ongoing projects, and course projects based
 - Others (mostly, Engineering)
   - Research Experience (2024 -- 2025) (Mentored by [Ju Liu](https://faculty.sustech.edu.cn/?tagid=liuj36&iscss=1&snapid=1&orderby=date&go=2){:target="_blank"}, SUSTech): [FSI Modeling of the Vasculature](/research#6){:target="_blank"}  
   - Course Project (Spring 2025): [Motion Detection via Communication Signals](/courses#6){:target="_blank"}
-  - iGEM (2025): Modeling E. coli specific adhesion in the tumor microenvironment using CompuCell3D
+  - iGEM (2025): [Modeling E. coli specific adhesion in the tumor microenvironment using CompuCell3D](/research#igem){:target="_blank"}
   <!-- - iGEM: [Modeling Specific Adhesion of E.coli in tumor microenvironment using CompuCell 3D](/research#6){:target="_blank"} -->
 
 ### Wet Lab

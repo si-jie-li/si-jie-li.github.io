@@ -56,4 +56,16 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--active a {
+    color: var(--global-link-color) !important;
+    font-weight: 600;
+
+    &:before {
+      -webkit-transform: scaleX(1) !important;
+          -ms-transform: scaleX(1) !important;
+              transform: scaleX(1) !important;
+      background: var(--global-link-color) !important;
+    }
+  }
 }

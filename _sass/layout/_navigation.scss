@@ -408,8 +408,8 @@
     text-decoration-line: none !important;
 
     &:hover {
-      color: #000;
-      background: var(--global-link-color-hover);
+      color: var(--global-link-color);
+      background: rgba(46, 107, 52, 0.08);
     }
   }
 
@@ -431,5 +431,42 @@
     @include breakpoint($medium) {
       display: block;
     }
+  }
+}
+
+
+/*
+   Floating table of contents
+   ========================================================================== */
+
+.floating-toc {
+  display: none;
+
+  @include breakpoint($large) {
+    display: block;
+    position: fixed;
+    top: calc(#{$masthead-height} + 2em);
+    right: 2em;
+    width: 200px;
+    max-height: calc(100vh - #{$masthead-height} - 4em);
+    overflow-y: auto;
+    z-index: 15;
+  }
+
+  @include breakpoint($x-large) {
+    right: calc((100vw - #{$x-large}) / 2 + 1em);
+  }
+
+  .toc__menu a {
+    font-size: 0.75rem;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+
+  .toc__menu a.toc--active {
+    color: var(--global-link-color);
+    font-weight: bold;
+    background: rgba(46, 107, 52, 0.06);
+    border-left: 2px solid var(--global-link-color);
   }
 }

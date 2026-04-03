@@ -16,14 +16,23 @@ layout: compress
         bottom: 100px;
         right: 100px;
         display: none;
-        background-color: #9fa2a5;
+        width: 44px;
+        height: 44px;
+        line-height: 44px;
+        text-align: center;
+        background-color: var(--global-link-color);
         color: white;
         opacity: 0.5;
-        padding: 10px 15px;
-        border-radius: 50px;
+        padding: 0;
+        border-radius: 50%;
+        font-size: 1.2em;
         cursor: pointer;
         box-shadow: 0 2px 5px rgba(0,0,0,0.3);
         z-index: 9999;
+        transition: opacity 0.2s ease;
+      }
+      #back-to-top:hover {
+        opacity: 0.8;
       }
     </style>
   </head>
@@ -35,7 +44,7 @@ layout: compress
 
     {{ content }}
     <!-- back to top -->
-    <div id="back-to-top">↑TOP</div>
+    <div id="back-to-top">↑</div>
 
     <div class="page__footer">
       <footer>
@@ -61,6 +70,96 @@ layout: compress
         backToTopButton.onclick = function() {
           window.scrollTo({ top: 0, behavior: 'smooth' });
         };
+      });
+    </script>
+    <script>
+      // Floating TOC auto-generation (h1+h2 hierarchical)
+      document.addEventListener('DOMContentLoaded', function() {
+        var tocList = document.getElementById('toc-list');
+        var tocContainer = document.getElementById('floating-toc');
+        if (!tocList || !tocContainer) return;
+
+        var content = document.querySelector('.page__content');
+        if (!content) { tocContainer.style.display = 'none'; return; }
+
+        // Collect h1[id] and h2[id] in DOM order
+        var headings = Array.prototype.slice.call(content.querySelectorAll('h1[id], h2[id]'));
+        if (headings.length < 2) { tocContainer.style.display = 'none'; return; }
+
+        // Helper: extract direct text from a heading (ignores child div subtitle text)
+        function headingText(h) {
+          var text = '';
+          for (var i = 0; i < h.childNodes.length; i++) {
+            if (h.childNodes[i].nodeType === 3) text += h.childNodes[i].textContent;
+          }
+          return text.trim() || h.textContent.trim().split('\n')[0].trim();
+        }
+
+        // Helper: open all ancestor <details> of an element, then scroll to it
+        function openAndScroll(el) {
+          var node = el.parentElement;
+          while (node && node !== document.documentElement) {
+            if (node.tagName && node.tagName.toLowerCase() === 'details') {
+              node.open = true;
+            }
+            node = node.parentElement;
+          }
+          setTimeout(function() {
+            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }, 50);
+        }
+
+        var currentH1Li = null;
+        var currentSubList = null;
+        var allHeadings = [];
+
+        headings.forEach(function(h) {
+          var a = document.createElement('a');
+          a.href = '#' + h.id;
+          a.textContent = headingText(h);
+          allHeadings.push({ el: h, link: a });
+
+          // Click: prevent default, open details, scroll
+          a.addEventListener('click', function(e) {
+            e.preventDefault();
+            openAndScroll(h);
+            history.pushState(null, '', '#' + h.id);
+          });
+
+          if (h.tagName.toLowerCase() === 'h1') {
+            var li = document.createElement('li');
+            li.appendChild(a);
+            tocList.appendChild(li);
+            currentH1Li = li;
+            currentSubList = null;
+          } else {
+            // h2 — nest under preceding h1, or top-level if no h1 seen yet
+            var li = document.createElement('li');
+            li.appendChild(a);
+            if (currentH1Li) {
+              if (!currentSubList) {
+                currentSubList = document.createElement('ul');
+                currentH1Li.appendChild(currentSubList);
+              }
+              currentSubList.appendChild(li);
+            } else {
+              tocList.appendChild(li);
+            }
+          }
+        });
+
+        // Scroll-aware active section highlighting
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              tocContainer.querySelectorAll('a').forEach(function(l) { l.classList.remove('toc--active'); });
+              var activeLink = tocContainer.querySelector('a[href="#' + entry.target.id + '"]');
+              if (activeLink) activeLink.classList.add('toc--active');
+            }
+          });
+        }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
+
+        allHeadings.forEach(function(item) { observer.observe(item.el); });
       });
     </script>
     <script>
