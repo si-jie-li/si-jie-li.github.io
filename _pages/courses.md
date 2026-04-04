@@ -256,7 +256,7 @@ I was responsible for the course project to decode movement (position and veloci
 
 I also wrote a [report](/files/course_mat/ss/SijieLi_SS_report.pdf){: .btn}{:target="_blank"} on this project including details and code. <small>(Although there were three members in our group, we completed two separate projects, and I was fully responsible for this movement detection one.)</small>
 
-</div></details><details><summary><h2 id="4">Principles of Electric Gircuits</h2></summary><div markdown='1'>
+</div></details><details><summary><h2 id="7">Principles of Electric Gircuits</h2></summary><div markdown='1'>
 The theoretical part covered the fundamentals of circuits, including analysis in the complex domain and s-domain, as well as analog and digital circuits.
 
 In the practical part, we followed circuit diagrams to manually solder devices (e.g., lights, signal generators, arteriographs, etc.). Our final project was to assemble a car and control its movement. I was responsible for the coding part, and after much trial and error with my teammates, we finally achieved **control using both the infrared signals from a remote and Bluetooth from our phones**.
